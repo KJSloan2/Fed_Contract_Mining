@@ -1,0 +1,7034 @@
+{
+  "OHIO VALLEY ELECTRIC CORPORATION": {
+    "naics_code": "221121.0",
+    "naics_desc": null,
+    "awards_total": 1018940680,
+    "locations": {}
+  },
+  "ONLOCATION, INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 22468750,
+    "locations": {}
+  },
+  "ALEUT AEROSPACE ENGINEERING, LLC": {
+    "naics_code": "517919.0",
+    "naics_desc": null,
+    "awards_total": 24787242,
+    "locations": {}
+  },
+  "CATAWBA-TEA, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 130842002,
+    "locations": {}
+  },
+  "AMERICAN CENTRIFUGE OPERATING, LLC": {
+    "naics_code": "221113.0",
+    "naics_desc": null,
+    "awards_total": 1613011859,
+    "locations": {}
+  },
+  "BATTELLE MEMORIAL INSTITUTE": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 2049154969336,
+    "locations": {}
+  },
+  "PARSONS GOVERNMENT SERVICES INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 695888721,
+    "locations": {}
+  },
+  "MANAGEMENT SOLUTIONS LLC": {
+    "naics_code": "561110.0",
+    "naics_desc": null,
+    "awards_total": 39176772,
+    "locations": {}
+  },
+  "REGAN TECHNOLOGIES CORP": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 506569225,
+    "locations": {}
+  },
+  "IDAHO ENVIRONMENTAL COALITION LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 3633947966,
+    "locations": {}
+  },
+  "UCHICAGO ARGONNE, LLC": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 725419134364,
+    "locations": {}
+  },
+  "V3GATE, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 3563413,
+    "locations": {}
+  },
+  "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 858319377440,
+    "locations": {}
+  },
+  "CONSOLIDATED NUCLEAR SECURITY LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 1201482824299,
+    "locations": {}
+  },
+  "ENTERPRISE TECHNOLOGY SOLUTIONS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 395583,
+    "locations": {}
+  },
+  "THREE WIRE SYSTEMS, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2296364,
+    "locations": {}
+  },
+  "VEGETATION MANAGEMENT WEST, L.P.": {
+    "naics_code": "115112.0",
+    "naics_desc": null,
+    "awards_total": 3807378,
+    "locations": {}
+  },
+  "NEW TECH SOLUTIONS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2168038,
+    "locations": {}
+  },
+  "TPGI CPA PLLC": {
+    "naics_code": "561110.0",
+    "naics_desc": null,
+    "awards_total": 888340,
+    "locations": {}
+  },
+  "SIGMA SCIENCE INC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 358093112,
+    "locations": {}
+  },
+  "MACK JANITORIAL & MAINTENANCE": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 38988,
+    "locations": {}
+  },
+  "VALI COOPER INTERNATIONAL LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 12882913,
+    "locations": {}
+  },
+  "BROOKHAVEN SCIENCE ASSOCIATES, LLC": {
+    "naics_code": "541712.0",
+    "naics_desc": null,
+    "awards_total": 170236784595,
+    "locations": {}
+  },
+  "NAVARRO RESEARCH AND ENGINEERING, INC.": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 830229167,
+    "locations": {}
+  },
+  "WASTE CONTROL SPECIALISTS LLC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 81546738,
+    "locations": {}
+  },
+  "SWIFT & STALEY INC.": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 6098538285,
+    "locations": {}
+  },
+  "HANFORD LABORATORY MANAGEMENT AND INTEGRATION LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 5120369177,
+    "locations": {}
+  },
+  "CHENEGA PROFESSIONAL & TECHNICAL SERVICES LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 113169020,
+    "locations": {}
+  },
+  "RICOH USA INC": {
+    "naics_code": "333244.0",
+    "naics_desc": null,
+    "awards_total": 6650014,
+    "locations": {}
+  },
+  "PROTECTION STRATEGIES INC": {
+    "naics_code": "561612.0",
+    "naics_desc": null,
+    "awards_total": 86358130,
+    "locations": {}
+  },
+  "ADVANCED COMPUTER CONCEPTS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 4650057,
+    "locations": {}
+  },
+  "WISECOM TECHNOLOGIES INC": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 249874,
+    "locations": {}
+  },
+  "REGENCY CONSULTING INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 578179,
+    "locations": {}
+  },
+  "CHEROKEE NATION STRATEGIC PROGRAMS, L.L.C.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 85137623,
+    "locations": {}
+  },
+  "TEKPRO SUPPORT SERVICES, LLC": {
+    "naics_code": "561499.0",
+    "naics_desc": null,
+    "awards_total": 43067683,
+    "locations": {}
+  },
+  "MBE INC": {
+    "naics_code": "532490.0",
+    "naics_desc": null,
+    "awards_total": 32106,
+    "locations": {}
+  },
+  "TI VERBATIM CONSULTING INC.": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 31527399,
+    "locations": {}
+  },
+  "PJM INTERCONNECTION, L.L.C.": {
+    "naics_code": "221121.0",
+    "naics_desc": null,
+    "awards_total": 423400,
+    "locations": {}
+  },
+  "MID-AMERICA CONVERSION SERVICES, LLC": {
+    "naics_code": "325180.0",
+    "naics_desc": null,
+    "awards_total": 13205787742,
+    "locations": {}
+  },
+  "CANDOR SOLUTIONS LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 10652307,
+    "locations": {}
+  },
+  "UNITECH SERVICES GROUP, INC.": {
+    "naics_code": "812332.0",
+    "naics_desc": null,
+    "awards_total": 122800000,
+    "locations": {}
+  },
+  "GARTNER, INC.": {
+    "naics_code": "519120.0",
+    "naics_desc": null,
+    "awards_total": 2851567,
+    "locations": {}
+  },
+  "UTILITY SYSTEMS, INC.": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 573000,
+    "locations": {}
+  },
+  "FEI BEHAVIORAL HEALTH, INC.": {
+    "naics_code": "561611.0",
+    "naics_desc": null,
+    "awards_total": 214538,
+    "locations": {}
+  },
+  "CH2M HILL CONSTRUCTORS, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 447121440,
+    "locations": {}
+  },
+  "SIA-STANTEC LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 3895051,
+    "locations": {}
+  },
+  "REGENTS OF UNIVERSITY OF CALIFORNIA": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 471260928660,
+    "locations": {}
+  },
+  "FEDCORP SERVICES, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 324504,
+    "locations": {}
+  },
+  "CIVIL DESIGN & ENGINEERING INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 8003422,
+    "locations": {}
+  },
+  "ONEVOICE GOVERNMENT SOLUTIONS LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 3388,
+    "locations": {}
+  },
+  "WEST PENN POWER COMPANY": {
+    "naics_code": "221118.0",
+    "naics_desc": null,
+    "awards_total": 28101386,
+    "locations": {}
+  },
+  "BECHTEL NATIONAL, INC.": {
+    "naics_code": "234930.0",
+    "naics_desc": null,
+    "awards_total": 272843142610,
+    "locations": {}
+  },
+  "KBC ENERGY SOLUTIONS LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 3171839086,
+    "locations": {}
+  },
+  "INDUSTRIAL ELEVATOR MAINTENANCE, INC": {
+    "naics_code": "238290.0",
+    "naics_desc": null,
+    "awards_total": 843336,
+    "locations": {}
+  },
+  "RSI ENTECH, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 83339135,
+    "locations": {}
+  },
+  "LANDOLL COMPANY, LLC": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 307650,
+    "locations": {}
+  },
+  "DILO COMPANY, INC": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 92792,
+    "locations": {}
+  },
+  "COVENANT PARK INTEGRATED INITIATIVES, INC.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 18322962,
+    "locations": {}
+  },
+  "CROWN TECHNICAL SYSTEMS": {
+    "naics_code": "332311.0",
+    "naics_desc": null,
+    "awards_total": 3749985,
+    "locations": {}
+  },
+  "CURTISS-WRIGHT ELECTRO-MECHANICAL CORPORATION": {
+    "naics_code": "333911.0",
+    "naics_desc": null,
+    "awards_total": 208721,
+    "locations": {}
+  },
+  "ALLEGHENY SCIENCE & TECHNOLOGY CORPORATION": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 845233284,
+    "locations": {}
+  },
+  "ACCORD FEDERAL SERVICES, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 21931044,
+    "locations": {}
+  },
+  "STERLING COMPUTERS CORPORATION": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 912291,
+    "locations": {}
+  },
+  "ACTIONET INC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 1535095153,
+    "locations": {}
+  },
+  "GUIDEHOUSE INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 966808680,
+    "locations": {}
+  },
+  "FOUR RIVERS NUCLEAR PARTNERSHIP, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 93795099,
+    "locations": {}
+  },
+  "CENTRAL PLATEAU CLEANUP COMPANY, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 49890454423,
+    "locations": {}
+  },
+  "MALVERN PANALYTICAL INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 287595,
+    "locations": {}
+  },
+  "MECA CONSULTING, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 40000,
+    "locations": {}
+  },
+  "STANDARD IMAGING INC.": {
+    "naics_code": "334519.0",
+    "naics_desc": null,
+    "awards_total": 31871,
+    "locations": {}
+  },
+  "CHENEGA RELIABLE SERVICES LLC": {
+    "naics_code": "621999.0",
+    "naics_desc": null,
+    "awards_total": 15619929,
+    "locations": {}
+  },
+  "ALLIANCE FOR SUSTAINABLE ENERGY LLC": {
+    "naics_code": "541711.0",
+    "naics_desc": null,
+    "awards_total": 705348028171,
+    "locations": {}
+  },
+  "PEOPLES NATURAL GAS COMPANY LLC": {
+    "naics_code": "221210.0",
+    "naics_desc": null,
+    "awards_total": 8713703,
+    "locations": {}
+  },
+  "WYANDOTTE TECHNOLOGIES": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 243005869,
+    "locations": {}
+  },
+  "WASHINGTON RIVER PROTECTION SOLUTIONS LLC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 231655726363,
+    "locations": {}
+  },
+  "MAXIMUS FEDERAL CONSULTING, LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 126377148,
+    "locations": {}
+  },
+  "POTOMAC-HUDSON ENGINEERING INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 1535256,
+    "locations": {}
+  },
+  "JOHNSON CONTROLS GOVERNMENT SYSTEMS, LLC": {
+    "naics_code": "221330.0",
+    "naics_desc": null,
+    "awards_total": 635439904,
+    "locations": {}
+  },
+  "EAST TENNESSEE MECHANICAL CONTRACTORS, INC.": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 28548702,
+    "locations": {}
+  },
+  "INDEPENDENT STRATEGIC MANAGEMENT SOLUTIONS INC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 22853674,
+    "locations": {}
+  },
+  "BGRS RELOCATION INC.": {
+    "naics_code": "531390.0",
+    "naics_desc": null,
+    "awards_total": 3457106,
+    "locations": {}
+  },
+  "EMP2, INC.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 4153024,
+    "locations": {}
+  },
+  "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 60000,
+    "locations": {}
+  },
+  "FLUOR-BWXT PORTSMOUTH LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 226854267089,
+    "locations": {}
+  },
+  "AMERICAN CONTRACTING, LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 934345,
+    "locations": {}
+  },
+  "WHITE BEAR CONSTRUCTION, INC.": {
+    "naics_code": "237310.0",
+    "naics_desc": null,
+    "awards_total": 1435825,
+    "locations": {}
+  },
+  "COOK & COOK INC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 109026,
+    "locations": {}
+  },
+  "GOLDEN SVCS, L.L.C.": {
+    "naics_code": "561612.0",
+    "naics_desc": null,
+    "awards_total": 921472616,
+    "locations": {}
+  },
+  "AMERICAN WORDATA, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1214015,
+    "locations": {}
+  },
+  "THE LELAND STANFORD JUNIOR UNIVERSITY": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 557710000000,
+    "locations": {}
+  },
+  "THE BUILDING PEOPLE LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 100140027,
+    "locations": {}
+  },
+  "DTN, LLC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 104122,
+    "locations": {}
+  },
+  "RED RIVER TECHNOLOGY LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 73788,
+    "locations": {}
+  },
+  "DNV GL USA, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 2177257,
+    "locations": {}
+  },
+  "STREET LEGAL INDUSTRIES, INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 80636080,
+    "locations": {}
+  },
+  "MVA POWER USA INC": {
+    "naics_code": "331318.0",
+    "naics_desc": null,
+    "awards_total": 243358,
+    "locations": {}
+  },
+  "BATTELLE SAVANNAH RIVER ALLIANCE, LLC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 93100000000,
+    "locations": {}
+  },
+  "STRATIVIA LLC": {
+    "naics_code": "561410.0",
+    "naics_desc": null,
+    "awards_total": 29596042,
+    "locations": {}
+  },
+  "OPEN SYSTEMS INTERNATIONAL INC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 5537129,
+    "locations": {}
+  },
+  "EAST COAST POWERLINE LLC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 15830126,
+    "locations": {}
+  },
+  "INFICON, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 65528,
+    "locations": {}
+  },
+  "TLI CONSTRUCTION, INC.": {
+    "naics_code": "237990.0",
+    "naics_desc": null,
+    "awards_total": 754228,
+    "locations": {}
+  },
+  "BOOTH MANAGEMENT CONSULTING, LLC": {
+    "naics_code": "541211.0",
+    "naics_desc": null,
+    "awards_total": 99313020,
+    "locations": {}
+  },
+  "DOYON TECHNICAL SERVICES, LLC": {
+    "naics_code": "332312.0",
+    "naics_desc": null,
+    "awards_total": 5933392,
+    "locations": {}
+  },
+  "ATLANTIC DIVING SUPPLY, INC.": {
+    "naics_code": "332999.0",
+    "naics_desc": null,
+    "awards_total": 3938893,
+    "locations": {}
+  },
+  "SOFTWARE INFORMATION RESOURCE CORP.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2425371,
+    "locations": {}
+  },
+  "CORPORATE ALLOCATION SERVICES INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 82490378,
+    "locations": {}
+  },
+  "ADDISON CONSTRUCTION CO": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 10263737,
+    "locations": {}
+  },
+  "FREDRICK OAK CONSULTING LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 2781684,
+    "locations": {}
+  },
+  "GLOBAL SUPPLY SOLUTIONS LLC": {
+    "naics_code": "493190.0",
+    "naics_desc": null,
+    "awards_total": 24972,
+    "locations": {}
+  },
+  "CH2M HILL BWXT WEST VALLEY, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 17317578659,
+    "locations": {}
+  },
+  "AFFIGENT, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 3509191,
+    "locations": {}
+  },
+  "ROYAL MEDIA NETWORK, INC.": {
+    "naics_code": "336211.0",
+    "naics_desc": null,
+    "awards_total": 369475,
+    "locations": {}
+  },
+  "FEDERAL CONTRACTS CORP": {
+    "naics_code": "336112.0",
+    "naics_desc": null,
+    "awards_total": 9683574,
+    "locations": {}
+  },
+  "KEYLOGIC SYSTEMS, LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 6743058363,
+    "locations": {}
+  },
+  "METGREEN SOLUTIONS INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 802770,
+    "locations": {}
+  },
+  "BURHANI ENTERPRISES INC": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 89255,
+    "locations": {}
+  },
+  "EDGEWATER FEDERAL SOLUTIONS, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 409915337,
+    "locations": {}
+  },
+  "THE TRUSTEES OF PRINCETON UNIVERSITY": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 47420543360,
+    "locations": {}
+  },
+  "MARRIOTT INTERNATIONAL INC": {
+    "naics_code": "711310.0",
+    "naics_desc": null,
+    "awards_total": 13900,
+    "locations": {}
+  },
+  "G & RK CONSULTING ASSOCIATES LLC": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 20775462,
+    "locations": {}
+  },
+  "USA WASTE OF CALIFORNIA, INC.": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 36541,
+    "locations": {}
+  },
+  "WESTINGHOUSE GOVERNMENT SERVICES LLC": {
+    "naics_code": "334517.0",
+    "naics_desc": null,
+    "awards_total": 509393964,
+    "locations": {}
+  },
+  "TSI INCORPORATED": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 28128,
+    "locations": {}
+  },
+  "FERMI RESEARCH ALLIANCE, LLC": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 264558638747,
+    "locations": {}
+  },
+  "GENSCAPE, INC.": {
+    "naics_code": "519290.0",
+    "naics_desc": null,
+    "awards_total": 72625,
+    "locations": {}
+  },
+  "ALVAREZ LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1157612,
+    "locations": {}
+  },
+  "FRONT RANGE CONSTRUCTION, INC.": {
+    "naics_code": "238160.0",
+    "naics_desc": null,
+    "awards_total": 2356805,
+    "locations": {}
+  },
+  "EPSILON INC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 163878478,
+    "locations": {}
+  },
+  "CARAHSOFT TECHNOLOGY CORP": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 3310734,
+    "locations": {}
+  },
+  "TESCAN USA INC.": {
+    "naics_code": "811219.0",
+    "naics_desc": null,
+    "awards_total": 74727,
+    "locations": {}
+  },
+  "RELX INC": {
+    "naics_code": "511120.0",
+    "naics_desc": null,
+    "awards_total": 765934,
+    "locations": {}
+  },
+  "TK ELEVATOR CORPORATION": {
+    "naics_code": "238290.0",
+    "naics_desc": null,
+    "awards_total": 338106,
+    "locations": {}
+  },
+  "DIDLAKE INC": {
+    "naics_code": "561110.0",
+    "naics_desc": null,
+    "awards_total": 221204321,
+    "locations": {}
+  },
+  "JOSEPH B. SCHROEDER": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 749100,
+    "locations": {}
+  },
+  "LESKCA INCORPORATED": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 7193011,
+    "locations": {}
+  },
+  "ATTAINX INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 86754039,
+    "locations": {}
+  },
+  "ARCHITECHTURE SOLUTIONS LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 118458,
+    "locations": {}
+  },
+  "DOBLE ENGINEERING COMPANY": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 5598374,
+    "locations": {}
+  },
+  "PKJ INTERNATIONAL LLC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 35798,
+    "locations": {}
+  },
+  "GREEN WORLD CONTRACTING CORP.": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 21722027,
+    "locations": {}
+  },
+  "IVORY CLOUD LLC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 54963549,
+    "locations": {}
+  },
+  "ENERGY BY NATIVE AMERICAN DESIGN CORP.": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 871916,
+    "locations": {}
+  },
+  "GEORGE CHAMPLAIN": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 325000,
+    "locations": {}
+  },
+  "VETERAN CLINICAL SOLUTIONS LLC": {
+    "naics_code": "621111.0",
+    "naics_desc": null,
+    "awards_total": 513003,
+    "locations": {}
+  },
+  "NORTH WIND PORTAGE, INC.": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 1128257641,
+    "locations": {}
+  },
+  "CENTURY HELICOPTERS, INC.": {
+    "naics_code": "488190.0",
+    "naics_desc": null,
+    "awards_total": 2682661,
+    "locations": {}
+  },
+  "GREENGATE, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 3318935,
+    "locations": {}
+  },
+  "BRUKER AXS LLC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 272824,
+    "locations": {}
+  },
+  "GOVSMART, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 549841,
+    "locations": {}
+  },
+  "SUNBELT SOLOMON SERVICES, LLC": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 49916,
+    "locations": {}
+  },
+  "ABM INDUSTRIES INC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 2982056,
+    "locations": {}
+  },
+  "AKIMA SYSTEMS ENGINEERING LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 2068423,
+    "locations": {}
+  },
+  "SITE WORK SOLUTIONS": {
+    "naics_code": "237310.0",
+    "naics_desc": null,
+    "awards_total": 1116495,
+    "locations": {}
+  },
+  "FEDSTORE CORPORATION": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1173145,
+    "locations": {}
+  },
+  "HYRAX INTERCONTINENTAL LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 13687,
+    "locations": {}
+  },
+  "ACCENTURE FEDERAL SERVICES LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 461840385,
+    "locations": {}
+  },
+  "COUNTERTRADE PRODUCTS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1762734,
+    "locations": {}
+  },
+  "DANIEL L. SUN, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 80534,
+    "locations": {}
+  },
+  "GOVERNMENT ACQUISITIONS INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 43425,
+    "locations": {}
+  },
+  "TECH2 SOLUTIONS": {
+    "naics_code": "237990.0",
+    "naics_desc": null,
+    "awards_total": 149908781,
+    "locations": {}
+  },
+  "COUNTY OF AUGUSTA-RICHMOND": {
+    "naics_code": "488119.0",
+    "naics_desc": null,
+    "awards_total": 3153005,
+    "locations": {}
+  },
+  "PERIKIN ENTERPRISES LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 50711745,
+    "locations": {}
+  },
+  "FOUR POINTS TECHNOLOGY, L.L.C.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 4645385,
+    "locations": {}
+  },
+  "T. A. PELSUE COMPANY": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 116109,
+    "locations": {}
+  },
+  "THE GORDIAN GROUP, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 326411,
+    "locations": {}
+  },
+  "PAE PROFESSIONAL SERVICES LLC": {
+    "naics_code": "561611.0",
+    "naics_desc": null,
+    "awards_total": 4195655,
+    "locations": {}
+  },
+  "CEREBRAS SYSTEMS INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 1050000,
+    "locations": {}
+  },
+  "YOLO EMPLOYMENT SERVICES": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 569330,
+    "locations": {}
+  },
+  "PERMA-FIX ENVIRONMENTAL SERVICES, INC.": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 229989,
+    "locations": {}
+  },
+  "WEST PUBLISHING CORPORATION": {
+    "naics_code": "519290.0",
+    "naics_desc": null,
+    "awards_total": 600324,
+    "locations": {}
+  },
+  "GAST CONSTRUCTION COMPANY INC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 4480250,
+    "locations": {}
+  },
+  "HENRON ELECTRICAL RESOURCES LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 330659,
+    "locations": {}
+  },
+  "DISYS SOLUTIONS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 374370,
+    "locations": {}
+  },
+  "EATON CORPORATION": {
+    "naics_code": "811213.0",
+    "naics_desc": null,
+    "awards_total": 148922,
+    "locations": {}
+  },
+  "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 844097747912,
+    "locations": {}
+  },
+  "CALLAHAN ENTERPRISES LLC": {
+    "naics_code": "811121.0",
+    "naics_desc": null,
+    "awards_total": 53005,
+    "locations": {}
+  },
+  "ABBA TECHNOLOGIES, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 1257718,
+    "locations": {}
+  },
+  "BOOZ ALLEN HAMILTON INC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 341895899,
+    "locations": {}
+  },
+  "COHNREZNICK LLP": {
+    "naics_code": "541211.0",
+    "naics_desc": null,
+    "awards_total": 64307759,
+    "locations": {}
+  },
+  "NEPTUNE AND COMPANY, INCORPORATED": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 28614391,
+    "locations": {}
+  },
+  "JACOBS TECHNOLOGY INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 7470102,
+    "locations": {}
+  },
+  "FLUOR MARINE PROPULSION, LLC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 195004500000,
+    "locations": {}
+  },
+  "LARTA INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 13421760,
+    "locations": {}
+  },
+  "THE AEROSPACE CORPORATION": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 803124168,
+    "locations": {}
+  },
+  "APPLIED RESEARCH ASSOCIATES, INC.": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 1044827,
+    "locations": {}
+  },
+  "EXPORT 220VOLT INC.": {
+    "naics_code": "333415.0",
+    "naics_desc": null,
+    "awards_total": 12292,
+    "locations": {}
+  },
+  "EBSCO INDUSTRIES INC": {
+    "naics_code": "519290.0",
+    "naics_desc": null,
+    "awards_total": 165278,
+    "locations": {}
+  },
+  "INTERACTIVE TECHNOLOGIES GROUP INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 42557919,
+    "locations": {}
+  },
+  "LINDAHL REED, INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 14840532,
+    "locations": {}
+  },
+  "JT MADISON INC": {
+    "naics_code": "335931.0",
+    "naics_desc": null,
+    "awards_total": 2858912,
+    "locations": {}
+  },
+  "FLUOR FEDERAL PETROLEUM OPERATIONS, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 33322413293,
+    "locations": {}
+  },
+  "PERFORMANCE EDGE, LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 3524730,
+    "locations": {}
+  },
+  "ATKINS ENERGY FEDERAL EPC INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 36214224,
+    "locations": {}
+  },
+  "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 488706062,
+    "locations": {}
+  },
+  "LADY POLE AND PILING INC": {
+    "naics_code": "321114.0",
+    "naics_desc": null,
+    "awards_total": 71100,
+    "locations": {}
+  },
+  "SUMMIT TECHNOLOGIES LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 3752347,
+    "locations": {}
+  },
+  "NATIONAL SECURITY PSYCHOLOGICAL SERVICES LLC": {
+    "naics_code": "621112.0",
+    "naics_desc": null,
+    "awards_total": 74331796,
+    "locations": {}
+  },
+  "BRIGHTER DAYS & NITES, INC.": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 328099,
+    "locations": {}
+  },
+  "KAIROS CONSULTING WORLDWIDE LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 77494,
+    "locations": {}
+  },
+  "ILLUME ADVISING LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 317027,
+    "locations": {}
+  },
+  "RIGAKU AMERICAS CORPORATION": {
+    "naics_code": "423490.0",
+    "naics_desc": null,
+    "awards_total": 150936,
+    "locations": {}
+  },
+  "PROFESSIONAL PROJECT SERVICES, INC.": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 173203633,
+    "locations": {}
+  },
+  "TANGO CARD INC": {
+    "naics_code": "522210.0",
+    "naics_desc": null,
+    "awards_total": 90000,
+    "locations": {}
+  },
+  "MCC INDUSTRIES INC": {
+    "naics_code": "335921.0",
+    "naics_desc": null,
+    "awards_total": 1765137,
+    "locations": {}
+  },
+  "BEITZ LAURETTE D": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 808891,
+    "locations": {}
+  },
+  "ELITE DIVERSIFIED CONSTRUCTION INC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 734584,
+    "locations": {}
+  },
+  "KRYDON GROUP, INC.": {
+    "naics_code": "335910.0",
+    "naics_desc": null,
+    "awards_total": 71200,
+    "locations": {}
+  },
+  "CEG SOLUTIONS LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 10629236,
+    "locations": {}
+  },
+  "MORAN WELDING, INC.": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 302600,
+    "locations": {}
+  },
+  "VNS FEDERAL SERVICES, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 83640985,
+    "locations": {}
+  },
+  "APC EQUIPMENT & MANUFACTURING INC": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 36348,
+    "locations": {}
+  },
+  "INDIAN EYES LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 5597716,
+    "locations": {}
+  },
+  "BIG VALLEY SANITATION INC": {
+    "naics_code": "562991.0",
+    "naics_desc": null,
+    "awards_total": 34416,
+    "locations": {}
+  },
+  "GERMRIP LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 51570,
+    "locations": {}
+  },
+  "PEAK ELECTRIC, INC.": {
+    "naics_code": "335931.0",
+    "naics_desc": null,
+    "awards_total": 50634,
+    "locations": {}
+  },
+  "COLOSSAL CONTRACTING LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1175565,
+    "locations": {}
+  },
+  "OMNISYNC INCORPORATED": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 6223526,
+    "locations": {}
+  },
+  "PENSER NORTH AMERICA, INC.": {
+    "naics_code": "524292.0",
+    "naics_desc": null,
+    "awards_total": 29700235,
+    "locations": {}
+  },
+  "RURAL ELECTRIC SUPPLY COOPERATIVE": {
+    "naics_code": "335932.0",
+    "naics_desc": null,
+    "awards_total": 1575957,
+    "locations": {}
+  },
+  "G.A. JOHNSON CONSTRUCTION, INC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 18089644,
+    "locations": {}
+  },
+  "NEXANTECA LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 1876655,
+    "locations": {}
+  },
+  "FOUR LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2770689,
+    "locations": {}
+  },
+  "TVAR SOLUTIONS, LLC": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 63827,
+    "locations": {}
+  },
+  "CORTEST INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 88547,
+    "locations": {}
+  },
+  "AMERICAN MATERIAL HANDLING, INC.": {
+    "naics_code": "333924.0",
+    "naics_desc": null,
+    "awards_total": 1134664,
+    "locations": {}
+  },
+  "ATI GOVERNMENT SOLUTIONS LLC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 1308970,
+    "locations": {}
+  },
+  "UNITED PARCEL SERVICE CO.": {
+    "naics_code": "492110.0",
+    "naics_desc": null,
+    "awards_total": 550623,
+    "locations": {}
+  },
+  "UNITED CLEANUP OAK RIDGE LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 10168816570,
+    "locations": {}
+  },
+  "WULCO, INC.": {
+    "naics_code": "336211.0",
+    "naics_desc": null,
+    "awards_total": 20682268,
+    "locations": {}
+  },
+  "NORTH ARROW, INC.": {
+    "naics_code": "541310.0",
+    "naics_desc": null,
+    "awards_total": 396690,
+    "locations": {}
+  },
+  "D&M PUMPING LLC": {
+    "naics_code": "562991.0",
+    "naics_desc": null,
+    "awards_total": 16632,
+    "locations": {}
+  },
+  "HEARTLAND ENERGY PARTNERS LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 153441,
+    "locations": {}
+  },
+  "WRIGGLESWORTH ENTERPRISES INC": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 930060,
+    "locations": {}
+  },
+  "RSI SERVICES LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 43895395,
+    "locations": {}
+  },
+  "BRAVO, INC.": {
+    "naics_code": "333924.0",
+    "naics_desc": null,
+    "awards_total": 75875,
+    "locations": {}
+  },
+  "SAYBOLT LP": {
+    "naics_code": "541380.0",
+    "naics_desc": null,
+    "awards_total": 271955,
+    "locations": {}
+  },
+  "S&K MISSION SUPPORT, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 47368933,
+    "locations": {}
+  },
+  "MUTUAL TELECOM SERVICES INC.": {
+    "naics_code": "517311.0",
+    "naics_desc": null,
+    "awards_total": 375450067,
+    "locations": {}
+  },
+  "KIMBALL INTERNATIONAL INC": {
+    "naics_code": "337214.0",
+    "naics_desc": null,
+    "awards_total": 56296,
+    "locations": {}
+  },
+  "SYNERGISTICS INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 13350143,
+    "locations": {}
+  },
+  "COLLEAGUE CONSULTING, LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 2784090,
+    "locations": {}
+  },
+  "WELLS JAY": {
+    "naics_code": "561790.0",
+    "naics_desc": null,
+    "awards_total": 15990,
+    "locations": {}
+  },
+  "TEAM QUALITY SERVICES INC": {
+    "naics_code": "321114.0",
+    "naics_desc": null,
+    "awards_total": 329355,
+    "locations": {}
+  },
+  "WITS SOLUTIONS INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 40503343,
+    "locations": {}
+  },
+  "ELECTRIC POWER RESEARCH INSTITUTE INC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 29096026,
+    "locations": {}
+  },
+  "ADVANTAGE MECHANICAL LLC": {
+    "naics_code": "811412.0",
+    "naics_desc": null,
+    "awards_total": 65600,
+    "locations": {}
+  },
+  "HUGHES BROTHERS INC": {
+    "naics_code": "321215.0",
+    "naics_desc": null,
+    "awards_total": 1708643,
+    "locations": {}
+  },
+  "LEAH M. JOPPY & ASSOCIATES, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 16797,
+    "locations": {}
+  },
+  "APTIM-NORTH WIND CONSTRUCTION JV LLC": {
+    "naics_code": "237110.0",
+    "naics_desc": null,
+    "awards_total": 1612677436,
+    "locations": {}
+  },
+  "CITY OF FREEPORT": {
+    "naics_code": "221310.0",
+    "naics_desc": null,
+    "awards_total": 1624874,
+    "locations": {}
+  },
+  "FEDBIZ IT SOLUTIONS LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 47300,
+    "locations": {}
+  },
+  "MIRION TECHNOLOGIES (CANBERRA), INC.": {
+    "naics_code": "811219.0",
+    "naics_desc": null,
+    "awards_total": 128268,
+    "locations": {}
+  },
+  "CAL ELECTRO INC..": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 9174250,
+    "locations": {}
+  },
+  "SIGNIFICANCE INC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 2123144,
+    "locations": {}
+  },
+  "SABRE COMMUNICATIONS CORP": {
+    "naics_code": "332312.0",
+    "naics_desc": null,
+    "awards_total": 19670935,
+    "locations": {}
+  },
+  "BURNS & MCDONNELL ENGINEERING COMPANY, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 7478768,
+    "locations": {}
+  },
+  "ENERGY RESOURCES INTERNATIONAL INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 196367,
+    "locations": {}
+  },
+  "REBEL STRIKE, LLC": {
+    "naics_code": "336120.0",
+    "naics_desc": null,
+    "awards_total": 583000,
+    "locations": {}
+  },
+  "CELLCO PARTNERSHIP": {
+    "naics_code": "517312.0",
+    "naics_desc": null,
+    "awards_total": 9930746,
+    "locations": {}
+  },
+  "ROUNDTABLE ENTERPRISES LLC": {
+    "naics_code": "212321.0",
+    "naics_desc": null,
+    "awards_total": 153840,
+    "locations": {}
+  },
+  "SYSCOM INC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 6837664,
+    "locations": {}
+  },
+  "BLUEPATH LABS LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 34822408,
+    "locations": {}
+  },
+  "INTERA INCORPORATED": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 553290,
+    "locations": {}
+  },
+  "ACTION BATTERY WHOLESALERS, INC": {
+    "naics_code": "335910.0",
+    "naics_desc": null,
+    "awards_total": 150770,
+    "locations": {}
+  },
+  "IRON MOUNTAIN INFORMATION MANAGEMENT LLC": {
+    "naics_code": "493110.0",
+    "naics_desc": null,
+    "awards_total": 51987,
+    "locations": {}
+  },
+  "FOUR CORNERS WEED CONTROL INC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 298758,
+    "locations": {}
+  },
+  "STEVENS CENTER MANAGEMENT COMPANY": {
+    "naics_code": "531312.0",
+    "naics_desc": null,
+    "awards_total": 181364,
+    "locations": {}
+  },
+  "NEWSWISE INC": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 160000,
+    "locations": {}
+  },
+  "ABT ASSOCIATES INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 376264,
+    "locations": {}
+  },
+  "HITACHI ENERGY USA INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 848004,
+    "locations": {}
+  },
+  "ASPEN TECHNOLOGY, INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 115755,
+    "locations": {}
+  },
+  "RIDGEBACK ENTERPRISES CO": {
+    "naics_code": "333924.0",
+    "naics_desc": null,
+    "awards_total": 62844,
+    "locations": {}
+  },
+  "LOCKHEED MARTIN CORPORATION": {
+    "naics_code": "nan",
+    "naics_desc": null,
+    "awards_total": 82589355088,
+    "locations": {}
+  },
+  "TOOZ CONSTRUCTION, INC.": {
+    "naics_code": "236210.0",
+    "naics_desc": null,
+    "awards_total": 4297580,
+    "locations": {}
+  },
+  "EDWARD HOLMES, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 12675680,
+    "locations": {}
+  },
+  "ASM AFFILIATES": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 422751,
+    "locations": {}
+  },
+  "ORKIN, LLC": {
+    "naics_code": "561710.0",
+    "naics_desc": null,
+    "awards_total": 294294,
+    "locations": {}
+  },
+  "MACGYVER SOLUTIONS, INC.": {
+    "naics_code": "336112.0",
+    "naics_desc": null,
+    "awards_total": 113120,
+    "locations": {}
+  },
+  "UNWIN CO": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 843557366,
+    "locations": {}
+  },
+  "VECTOR RESOURCE INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 110286305,
+    "locations": {}
+  },
+  "LA MARCHE MANUFACTURING CO": {
+    "naics_code": "335999.0",
+    "naics_desc": null,
+    "awards_total": 55278,
+    "locations": {}
+  },
+  "BTP SERVICES, LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 155782836,
+    "locations": {}
+  },
+  "POLITICO LLC": {
+    "naics_code": "513110.0",
+    "naics_desc": null,
+    "awards_total": 730121,
+    "locations": {}
+  },
+  "MCP COMPUTER PRODUCTS INC.": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 685551,
+    "locations": {}
+  },
+  "GE GRID SOLUTIONS LLC": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 1444756,
+    "locations": {}
+  },
+  "DELOITTE CONSULTING LLP": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 54690203,
+    "locations": {}
+  },
+  "INSTITUTE FOR DEFENSE ANALYSES": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 4042053,
+    "locations": {}
+  },
+  "AMERICAN AUTO PARKS LLC": {
+    "naics_code": "812930.0",
+    "naics_desc": null,
+    "awards_total": 116109,
+    "locations": {}
+  },
+  "NORTH WIND RESOURCE CONSULTING LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 5743808,
+    "locations": {}
+  },
+  "AMERICAN INSPECTION & TEST INC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 99091,
+    "locations": {}
+  },
+  "OAK RIDGE UTILITY DISTRICT": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 217569,
+    "locations": {}
+  },
+  "LINK TECHNOLOGIES INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 217655406,
+    "locations": {}
+  },
+  "BRUNNER AEROSPACE LLC": {
+    "naics_code": "221122.0",
+    "naics_desc": null,
+    "awards_total": 52400,
+    "locations": {}
+  },
+  "RIVIDIUM INC.": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 46564450,
+    "locations": {}
+  },
+  "ELSEVIER B.V.": {
+    "naics_code": "511199.0",
+    "naics_desc": null,
+    "awards_total": 383423,
+    "locations": {}
+  },
+  "INNOVATIVE MANAGEMENT CONCEPTS, INC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 15321565,
+    "locations": {}
+  },
+  "GEM TECHNOLOGIES, INC.": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 1592271,
+    "locations": {}
+  },
+  "MGX EQUIPMENT SERVICES LLC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 31203,
+    "locations": {}
+  },
+  "INDUSTRIAL ECONOMICS INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 14360692,
+    "locations": {}
+  },
+  "AURORA SYSTEMS CONSULTING INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1689390,
+    "locations": {}
+  },
+  "ADVANCED TECHNOLOGY LOGISTICS INC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 83600,
+    "locations": {}
+  },
+  "ARS ALEUT REMEDIATION, LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 6844929,
+    "locations": {}
+  },
+  "CONVERGE POINT, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 131200,
+    "locations": {}
+  },
+  "RAS ENTERPRISES LLC": {
+    "naics_code": "325120.0",
+    "naics_desc": null,
+    "awards_total": 849428,
+    "locations": {}
+  },
+  "PARAGON PROFESSIONAL SERVICES LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 17066356,
+    "locations": {}
+  },
+  "AT&T MOBILITY LLC": {
+    "naics_code": "517312.0",
+    "naics_desc": null,
+    "awards_total": 1513372,
+    "locations": {}
+  },
+  "DESPAIN AND ASSOCIATES, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 20055,
+    "locations": {}
+  },
+  "MARTINSON SNOW REMOVAL, INC.": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 155935,
+    "locations": {}
+  },
+  "APTIM FEDERAL SERVICES LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 140507100,
+    "locations": {}
+  },
+  "BOCA WIRE CORP": {
+    "naics_code": "331420.0",
+    "naics_desc": null,
+    "awards_total": 341077,
+    "locations": {}
+  },
+  "NORTHEAST BATTERY & ALTERNATOR, LLC": {
+    "naics_code": "335911.0",
+    "naics_desc": null,
+    "awards_total": 46110,
+    "locations": {}
+  },
+  "B & H INTERNATIONAL LLC": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 186190,
+    "locations": {}
+  },
+  "SHARMA & ASSOCIATES INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 1368245,
+    "locations": {}
+  },
+  "SEALASKA REMEDIATION SOLUTIONS, LLC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 62559203,
+    "locations": {}
+  },
+  "BLACK GOLD INDUSTRIES": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 182114,
+    "locations": {}
+  },
+  "SAGE ENERGY TRADING LLC": {
+    "naics_code": "221210.0",
+    "naics_desc": null,
+    "awards_total": 28091150,
+    "locations": {}
+  },
+  "DIESEL MACHINERY, INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 61305,
+    "locations": {}
+  },
+  "PEABODY, L E & ASSOCIATES INC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 3160000,
+    "locations": {}
+  },
+  "AE WORKS LTD": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 567334,
+    "locations": {}
+  },
+  "3 CLOGIC INC": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 20444,
+    "locations": {}
+  },
+  "AUGUST SCHELL ENTERPRISES, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1113620,
+    "locations": {}
+  },
+  "STATION SQUARE LESSEE, LLC": {
+    "naics_code": "721110.0",
+    "naics_desc": null,
+    "awards_total": 19981,
+    "locations": {}
+  },
+  "TANAKA MADISON CONSULTING, LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 5783370,
+    "locations": {}
+  },
+  "MICROTECHNOLOGIES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 0,
+    "locations": {}
+  },
+  "EVERBRIDGE, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 38280,
+    "locations": {}
+  },
+  "CAMEO CONSULTING GROUP LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 7689880,
+    "locations": {}
+  },
+  "MARY HELEN PARKEY": {
+    "naics_code": "335999.0",
+    "naics_desc": null,
+    "awards_total": 964195,
+    "locations": {}
+  },
+  "LEIDOS, INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 3135867,
+    "locations": {}
+  },
+  "PARAGON MICRO INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 93658,
+    "locations": {}
+  },
+  "L'ENFANT DC HOTEL LLC": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 28270,
+    "locations": {}
+  },
+  "SKOOKUM EDUCATIONAL PROGRAMS": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 317355914,
+    "locations": {}
+  },
+  "MCCALL INDUSTRIAL SUPPLY CO. LLC": {
+    "naics_code": "334513.0",
+    "naics_desc": null,
+    "awards_total": 15480,
+    "locations": {}
+  },
+  "ALLCOM GLOBAL SERVICES, INC.": {
+    "naics_code": "334290.0",
+    "naics_desc": null,
+    "awards_total": 180660,
+    "locations": {}
+  },
+  "FEDERAL PRISON INDUSTRIES, INC": {
+    "naics_code": "333314.0",
+    "naics_desc": null,
+    "awards_total": 35609,
+    "locations": {}
+  },
+  "THE BIZZELL GROUP LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 10721277,
+    "locations": {}
+  },
+  "DUN & BRADSTREET INC": {
+    "naics_code": "561450.0",
+    "naics_desc": null,
+    "awards_total": 14236,
+    "locations": {}
+  },
+  "ENVERUS, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 480000,
+    "locations": {}
+  },
+  "NUCLEAR WASTE PARTNERSHIP LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 51319897716,
+    "locations": {}
+  },
+  "IMPLAN GROUP LLC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 121000,
+    "locations": {}
+  },
+  "CIRCUIT MEDIA LLC": {
+    "naics_code": "335313.0",
+    "naics_desc": null,
+    "awards_total": 1929611,
+    "locations": {}
+  },
+  "CARLO LACHMANSINGH SALES INC": {
+    "naics_code": "335921.0",
+    "naics_desc": null,
+    "awards_total": 3022322,
+    "locations": {}
+  },
+  "BETTER DIRECT, LLC": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 45573,
+    "locations": {}
+  },
+  "THUNDERCAT TECHNOLOGY, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2456390,
+    "locations": {}
+  },
+  "COMMUNICATION INSTITUTE INTERNATIONAL, INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 65520,
+    "locations": {}
+  },
+  "ROSS & ASSOCIATES ENVIRONMENTAL CONSULTING, LTD.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 1981071,
+    "locations": {}
+  },
+  "ASPEN ENVIRONMENTAL GROUP": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 2876104,
+    "locations": {}
+  },
+  "RELIANCE CONTRACTORS INC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 46454,
+    "locations": {}
+  },
+  "OAK RIDGE TECHNOLOGIES, LLC": {
+    "naics_code": "332420.0",
+    "naics_desc": null,
+    "awards_total": 7337070,
+    "locations": {}
+  },
+  "AKIMA FACILITIES OPERATIONS LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 9010906,
+    "locations": {}
+  },
+  "GENERATIONOLOGY LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 35000,
+    "locations": {}
+  },
+  "COHERENT NA, INC.": {
+    "naics_code": "334513.0",
+    "naics_desc": null,
+    "awards_total": 262220,
+    "locations": {}
+  },
+  "S C & A INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 144795736,
+    "locations": {}
+  },
+  "CHEROKEE NATION ENVIRONMENTAL SOLUTIONS, L.L.C.": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 12780156,
+    "locations": {}
+  },
+  "AMVET TECHNOLOGIES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 7599236,
+    "locations": {}
+  },
+  "GRADILLAS COURT REPORTERS, INC.": {
+    "naics_code": "561320.0",
+    "naics_desc": null,
+    "awards_total": 261619,
+    "locations": {}
+  },
+  "CHICKASAW STRATEGIC POINTE, LLC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 6293352,
+    "locations": {}
+  },
+  "TOTALLY JOINED FOR ACHIEVING COLLABORATIVE TECHNIQUES (TJFACT), LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 12113383,
+    "locations": {}
+  },
+  "FEDERAL EXPRESS CORP": {
+    "naics_code": "492110.0",
+    "naics_desc": null,
+    "awards_total": 50790,
+    "locations": {}
+  },
+  "BOSTON GOVERNMENT SERVICES, LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 150949243,
+    "locations": {}
+  },
+  "INCORPORATED COUNTY OF LOS ALAMOS": {
+    "naics_code": "926130.0",
+    "naics_desc": null,
+    "awards_total": 15000000,
+    "locations": {}
+  },
+  "JGMS GOVERNMENT SERVICES LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 6582829,
+    "locations": {}
+  },
+  "BLUE TECH INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1127623,
+    "locations": {}
+  },
+  "NATIONAL ACADEMY OF SCIENCES": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 19668824,
+    "locations": {}
+  },
+  "TRANSPORTATION TECHNOLOGY CENTER, INC.": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 45775660,
+    "locations": {}
+  },
+  "SUNOCO PARTNERS MARKETING & TERMINALS L.P.": {
+    "naics_code": "488320.0",
+    "naics_desc": null,
+    "awards_total": 64906278,
+    "locations": {}
+  },
+  "OPEN ACCESS TECHNOLOGY INTERNATIONAL INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 24462750,
+    "locations": {}
+  },
+  "COMPLETE CONCRETE, INC.": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 3355443,
+    "locations": {}
+  },
+  "STANDARD-BLAZAR, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 277026,
+    "locations": {}
+  },
+  "THERMO-CALC SOFTWARE": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 90181,
+    "locations": {}
+  },
+  "LIVING INVIGORATING VALUABLE EXPERIENCES, LLC (LIVE)": {
+    "naics_code": "561499.0",
+    "naics_desc": null,
+    "awards_total": 4994932,
+    "locations": {}
+  },
+  "SPRINGER NATURE CUSTOMER SERVICE CENTER LLC": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 753803,
+    "locations": {}
+  },
+  "GENERAL DYNAMICS ONE SOURCE LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 287100,
+    "locations": {}
+  },
+  "PROJECT ENHANCEMENT CORPORATION": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 277484223,
+    "locations": {}
+  },
+  "TYNDALE ENTERPRISES, INC.": {
+    "naics_code": "423490.0",
+    "naics_desc": null,
+    "awards_total": 33233,
+    "locations": {}
+  },
+  "DYNAMIC SYSTEMS INC": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 961411,
+    "locations": {}
+  },
+  "ALLIED WASTE TRANSPORTATION INC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 654260,
+    "locations": {}
+  },
+  "TECHNOMICS, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 32802614,
+    "locations": {}
+  },
+  "ISOTEK SYSTEMS LLC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 10356285341,
+    "locations": {}
+  },
+  "BASIC TECHNOLOGIES INC": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 103432,
+    "locations": {}
+  },
+  "ICF INCORPORATED, L.L.C.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 21576296,
+    "locations": {}
+  },
+  "GENCO SYSTEMS INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 395400,
+    "locations": {}
+  },
+  "CQ-ROLL CALL, INC.": {
+    "naics_code": "511120.0",
+    "naics_desc": null,
+    "awards_total": 310009,
+    "locations": {}
+  },
+  "ARCHETYPE I LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 50678560,
+    "locations": {}
+  },
+  "CDW GOVERNMENT LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 194087,
+    "locations": {}
+  },
+  "GOVERNMENT SCIENTIFIC SOURCE INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 1692574,
+    "locations": {}
+  },
+  "ALUTIIQ LOGISTICS & MAINTENANCE SERVICES, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 41215098,
+    "locations": {}
+  },
+  "INFOTECH INNOVATIONS INC": {
+    "naics_code": "541513.0",
+    "naics_desc": null,
+    "awards_total": 37673,
+    "locations": {}
+  },
+  "MOMENTIVE INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 20000,
+    "locations": {}
+  },
+  "LYME COMPUTER SYSTEMS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2752430,
+    "locations": {}
+  },
+  "MONTECH INC": {
+    "naics_code": "561612.0",
+    "naics_desc": null,
+    "awards_total": 45413903,
+    "locations": {}
+  },
+  "NEWPORT NEWS NUCLEAR BWXT-LOS ALAMOS LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 142711292,
+    "locations": {}
+  },
+  "CTI AND ASSOCIATES, INC.": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 8736387,
+    "locations": {}
+  },
+  "BLUE CANOPY GROUP, LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 66794149,
+    "locations": {}
+  },
+  "INTEGRATED SECURITY TECHNOLOGIES, INC": {
+    "naics_code": "561621.0",
+    "naics_desc": null,
+    "awards_total": 32744,
+    "locations": {}
+  },
+  "X CELL MANAGEMENT INC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 44419,
+    "locations": {}
+  },
+  "S & K FEDERAL SERVICES LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 9176488,
+    "locations": {}
+  },
+  "SOCIETY FOR ADVANCEMENT OF CHICANOS AND NATIVE AMERICANS IN SCIENCE": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 49000,
+    "locations": {}
+  },
+  "MODERN ELECTRIC CO.": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 1058855,
+    "locations": {}
+  },
+  "EXETER ASSOCIATES, INC.": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 8549612,
+    "locations": {}
+  },
+  "TRIAD TECHNOLOGY PARTNERS LLC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 315544,
+    "locations": {}
+  },
+  "SIEMENS ENERGY INC": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 10254545,
+    "locations": {}
+  },
+  "BAHFED CORP": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 742372,
+    "locations": {}
+  },
+  "LRP PUBLICATIONS INC": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 96333,
+    "locations": {}
+  },
+  "EVANS RIGHT OF WAY CLEARING INC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 415000,
+    "locations": {}
+  },
+  "BLOOMSBURIE LLC": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 1433225,
+    "locations": {}
+  },
+  "MOUNTAIN F. ENTERPRISES, INC.": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 2593243,
+    "locations": {}
+  },
+  "ROCK & ASSOCIATES": {
+    "naics_code": "327110.0",
+    "naics_desc": null,
+    "awards_total": 1135803,
+    "locations": {}
+  },
+  "AUTOMATION AIDS INC": {
+    "naics_code": "339940.0",
+    "naics_desc": null,
+    "awards_total": 58469,
+    "locations": {}
+  },
+  "LIONA ENTERPRISES INC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 5250201,
+    "locations": {}
+  },
+  "INFOTEC SYSTEMS CORP": {
+    "naics_code": "334290.0",
+    "naics_desc": null,
+    "awards_total": 20696,
+    "locations": {}
+  },
+  "JEOL USA, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 1238470,
+    "locations": {}
+  },
+  "POWERWORLD CORP": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 170500,
+    "locations": {}
+  },
+  "KNIGHTHORST SHREDDING, LLC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 3277,
+    "locations": {}
+  },
+  "ENERGY TECHNOLOGY ALLIANCE LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 10636683,
+    "locations": {}
+  },
+  "MYRON JORDAN CLEANING SERVICES LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 45600,
+    "locations": {}
+  },
+  "ALLIUM US HOLDING LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 61740,
+    "locations": {}
+  },
+  "UT-BATTELLE LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 1385335158714,
+    "locations": {}
+  },
+  "ANKURA CONSULTING GROUP, LLC": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 511632,
+    "locations": {}
+  },
+  "CTG FEDERAL, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 367157,
+    "locations": {}
+  },
+  "NUCLEAR FUEL SERVICES INC": {
+    "naics_code": "325180.0",
+    "naics_desc": null,
+    "awards_total": 1048649334,
+    "locations": {}
+  },
+  "COLONIAL METALS, INC.": {
+    "naics_code": "332999.0",
+    "naics_desc": null,
+    "awards_total": 98843854,
+    "locations": {}
+  },
+  "JEFFERSON SCIENCE ASSOCIATES, LLC": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 42218941786,
+    "locations": {}
+  },
+  "AMYX INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 23491057,
+    "locations": {}
+  },
+  "SAMYAK SOLUTIONS, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 26186,
+    "locations": {}
+  },
+  "ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 361056,
+    "locations": {}
+  },
+  "WRTS, LLC": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 27891,
+    "locations": {}
+  },
+  "CHAMPS SOFTWARE INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 52540,
+    "locations": {}
+  },
+  "THE AKANA GROUP INC.": {
+    "naics_code": "333120.0",
+    "naics_desc": null,
+    "awards_total": 288277,
+    "locations": {}
+  },
+  "HONEYWELL INTERNATIONAL INC.": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 322957897746,
+    "locations": {}
+  },
+  "SENSORS UNLIMITED INC": {
+    "naics_code": "334413.0",
+    "naics_desc": null,
+    "awards_total": 32000,
+    "locations": {}
+  },
+  "STRATEGY CONSULTING TEAM LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 119001,
+    "locations": {}
+  },
+  "WGL ENERGY SERVICES, INC.": {
+    "naics_code": "221118.0",
+    "naics_desc": null,
+    "awards_total": 164454,
+    "locations": {}
+  },
+  "JOHN J. YIM & ASSOCIATES LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 6961844,
+    "locations": {}
+  },
+  "PERATON INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 13729905,
+    "locations": {}
+  },
+  "BPI MECHANICHAL CONSTRUCTION INC": {
+    "naics_code": "333415.0",
+    "naics_desc": null,
+    "awards_total": 7400,
+    "locations": {}
+  },
+  "STOLLER NAVARRO JOINT VENTURE": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 486678371,
+    "locations": {}
+  },
+  "COMCAST OF PENNSYLVANIA II, INC.": {
+    "naics_code": "515210.0",
+    "naics_desc": null,
+    "awards_total": 15880,
+    "locations": {}
+  },
+  "ORANO FEDERAL SERVICES LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 9248820,
+    "locations": {}
+  },
+  "HEIDI KOLBE & COMPANY": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 67011,
+    "locations": {}
+  },
+  "IMBUE TECHNOLOGY SOLUTIONS, INC.": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 1394703,
+    "locations": {}
+  },
+  "PROJECT SERVICES GROUP, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 366072,
+    "locations": {}
+  },
+  "AMERICAN POWER SYSTEMS, LLC": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 262080,
+    "locations": {}
+  },
+  "TENNESSEE GAS PIPELINE COMPANY": {
+    "naics_code": "486210.0",
+    "naics_desc": null,
+    "awards_total": 25195506,
+    "locations": {}
+  },
+  "ERTH SYSTEMS SHREDDING INC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 10960,
+    "locations": {}
+  },
+  "TRACKER PRODUCTS, LLC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 17010,
+    "locations": {}
+  },
+  "JP WHELAN CO": {
+    "naics_code": "321114.0",
+    "naics_desc": null,
+    "awards_total": 1967628,
+    "locations": {}
+  },
+  "XEROX CORPORATION": {
+    "naics_code": "333293.0",
+    "naics_desc": null,
+    "awards_total": 131000,
+    "locations": {}
+  },
+  "PANAMERICA COMPUTERS, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 322098,
+    "locations": {}
+  },
+  "NORTHBOUND SOLUTIONS LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 17148924,
+    "locations": {}
+  },
+  "CHENEGA ENTERPRISE SYSTEMS & SOLUTIONS, LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 73627106,
+    "locations": {}
+  },
+  "KPAUL PROPERTIES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 69767,
+    "locations": {}
+  },
+  "COMPLETE HVAC SERVICE & INSTALLATION, LLC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 45414,
+    "locations": {}
+  },
+  "CLASS CONTRACTING LLC": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 258800,
+    "locations": {}
+  },
+  "MICROTECH COMPUTERS INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 6202313,
+    "locations": {}
+  },
+  "ACTIVE HEATING INC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 100894,
+    "locations": {}
+  },
+  "INTERIM HOMES, INC.": {
+    "naics_code": "531110.0",
+    "naics_desc": null,
+    "awards_total": 27874,
+    "locations": {}
+  },
+  "UCOR LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 12525868728,
+    "locations": {}
+  },
+  "POWERGEM, LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 115200,
+    "locations": {}
+  },
+  "WATSON LISA": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 45600,
+    "locations": {}
+  },
+  "GUARDIAN CENTERS OF GEORGIA, LLC": {
+    "naics_code": "531120.0",
+    "naics_desc": null,
+    "awards_total": 2902709,
+    "locations": {}
+  },
+  "JESS W. JACKSON AND ASSOCIATES, INC.": {
+    "naics_code": "423830.0",
+    "naics_desc": null,
+    "awards_total": 586827,
+    "locations": {}
+  },
+  "THE MILLENNIUM GROUP INTERNATIONAL, LLC": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 654562,
+    "locations": {}
+  },
+  "DAVEY TREE EXPERT COMPANY, THE": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 536802,
+    "locations": {}
+  },
+  "KPMG LLP": {
+    "naics_code": "541211.0",
+    "naics_desc": null,
+    "awards_total": 284135326,
+    "locations": {}
+  },
+  "INVADER PEST MANAGEMENT, INC.": {
+    "naics_code": "561710.0",
+    "naics_desc": null,
+    "awards_total": 524755,
+    "locations": {}
+  },
+  "RED CARROT INC": {
+    "naics_code": "516210.0",
+    "naics_desc": null,
+    "awards_total": 56058,
+    "locations": {}
+  },
+  "PACIFICMARK CONSTRUCTION CORP": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 5703776,
+    "locations": {}
+  },
+  "ROYAL SOCIETY OF CHEMISTRY (THE)": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 25826,
+    "locations": {}
+  },
+  "ANNUAL REVIEWS": {
+    "naics_code": "611710.0",
+    "naics_desc": null,
+    "awards_total": 24418,
+    "locations": {}
+  },
+  "INNOVATIVE RESEARCH, LLC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 76300,
+    "locations": {}
+  },
+  "CLARIVATE ANALYTICS (US) LLC": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 2391390,
+    "locations": {}
+  },
+  "HYPERION TECHNOLOGIES LLC": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 3194000,
+    "locations": {}
+  },
+  "THE OPTICAL SOCIETY OF AMERICA, INCORPORATED": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 98549,
+    "locations": {}
+  },
+  "UNIVERSAL TECHNICAL RESOURCE SERVICES INC": {
+    "naics_code": "336211.0",
+    "naics_desc": null,
+    "awards_total": 2775136,
+    "locations": {}
+  },
+  "FPM-AECOM JV1": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 16631406,
+    "locations": {}
+  },
+  "AUGUR CONSULTING, INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 417737,
+    "locations": {}
+  },
+  "TOWNES, CORNELL": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 100000,
+    "locations": {}
+  },
+  "TIERRA RIGHT OF WAY SERVICES, LTD.": {
+    "naics_code": "531210.0",
+    "naics_desc": null,
+    "awards_total": 591836,
+    "locations": {}
+  },
+  "ALPINE ARCHAEOLOGICAL CONSULTANTS INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 167007,
+    "locations": {}
+  },
+  "ASIAN TECHNOLOGY INFORMATION PROGRAM": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 1631536,
+    "locations": {}
+  },
+  "UTILITIES INTERNATIONAL INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 835000,
+    "locations": {}
+  },
+  "UNITY CABLE TECHNOLOGIES INC": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 94658,
+    "locations": {}
+  },
+  "CHEROKEE NATION MISSION SOLUTIONS, L.L.C.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 1766929,
+    "locations": {}
+  },
+  "FOOTHILLS ENVIRONMENTAL, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 27756,
+    "locations": {}
+  },
+  "KATMAI HEALTH SERVICES LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 937068,
+    "locations": {}
+  },
+  "DAWNWOLFTECH": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 17700,
+    "locations": {}
+  },
+  "NEXTSTEP TECHNOLOGY INC": {
+    "naics_code": "561110.0",
+    "naics_desc": null,
+    "awards_total": 1508536,
+    "locations": {}
+  },
+  "AMERICAN SOCIETY FOR MICROBIOLOGY": {
+    "naics_code": "511120.0",
+    "naics_desc": null,
+    "awards_total": 33268,
+    "locations": {}
+  },
+  "TENNESSEE VALLEY AUTHORITY": {
+    "naics_code": "221121.0",
+    "naics_desc": null,
+    "awards_total": 483529372,
+    "locations": {}
+  },
+  "FEASIBILITY RESEARCH GROUP OHIO LLC": {
+    "naics_code": "531210.0",
+    "naics_desc": null,
+    "awards_total": 72349,
+    "locations": {}
+  },
+  "TRANSOURCE SERVICES CORP.": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 351064,
+    "locations": {}
+  },
+  "DIRECTORY WIZARDS INC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 11000,
+    "locations": {}
+  },
+  "INALAB CONSULTING, INC.": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 14207812,
+    "locations": {}
+  },
+  "APAH LLC": {
+    "naics_code": "488119.0",
+    "naics_desc": null,
+    "awards_total": 30360,
+    "locations": {}
+  },
+  "AMERICAN CHEMICAL SOCIETY": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 528838,
+    "locations": {}
+  },
+  "WILLIAMSVILLE RESOURCES II INC": {
+    "naics_code": "333415.0",
+    "naics_desc": null,
+    "awards_total": 133200,
+    "locations": {}
+  },
+  "T&E SERVICES LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 10286294,
+    "locations": {}
+  },
+  "GARTEN SERVICES, INC.": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 4627985,
+    "locations": {}
+  },
+  "TRADESPACE INC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 12000,
+    "locations": {}
+  },
+  "AMERICAN PHYSICAL SOCIETY": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 202420,
+    "locations": {}
+  },
+  "CAST SPECIALTY TRANSPORTATION INC": {
+    "naics_code": "484230.0",
+    "naics_desc": null,
+    "awards_total": 338944392,
+    "locations": {}
+  },
+  "INSTITUTE OF ELECTRICAL & ELECTRONICS ENGINEERS INC": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 154800,
+    "locations": {}
+  },
+  "SOCIETY OF EXPLORATION GEOPHYSICISTS": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 32038,
+    "locations": {}
+  },
+  "AXON ENTERPRISE, INC.": {
+    "naics_code": "334310.0",
+    "naics_desc": null,
+    "awards_total": 282880,
+    "locations": {}
+  },
+  "TRINITY ENGINEERING ASSOCIATES, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 3821385,
+    "locations": {}
+  },
+  "THE WINVALE GROUP, LLC": {
+    "naics_code": "811212.0",
+    "naics_desc": null,
+    "awards_total": 202540,
+    "locations": {}
+  },
+  "WATERWORKS DISTRICT 9 WARD 4": {
+    "naics_code": "221310.0",
+    "naics_desc": null,
+    "awards_total": 28500,
+    "locations": {}
+  },
+  "TRIBALCO LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2894091,
+    "locations": {}
+  },
+  "E FLOW ELECTRIC INC": {
+    "naics_code": "334416.0",
+    "naics_desc": null,
+    "awards_total": 246684,
+    "locations": {}
+  },
+  "JDHQ HOLDING LP": {
+    "naics_code": "532289.0",
+    "naics_desc": null,
+    "awards_total": 14375,
+    "locations": {}
+  },
+  "COMBAT READY LLC": {
+    "naics_code": "316999.0",
+    "naics_desc": null,
+    "awards_total": 6339551,
+    "locations": {}
+  },
+  "DELOITTE FINANCIAL ADVISORY SERVICES LLP": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 867619,
+    "locations": {}
+  },
+  "WILLIAMS ELECTRIC CO INC": {
+    "naics_code": "336992.0",
+    "naics_desc": null,
+    "awards_total": 545270,
+    "locations": {}
+  },
+  "CITY OF ELBERTON": {
+    "naics_code": "926130.0",
+    "naics_desc": null,
+    "awards_total": 52800,
+    "locations": {}
+  },
+  "KARY ENVIRONMENTAL SERVICES, INC.": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 25390,
+    "locations": {}
+  },
+  "IRON BOW TECHNOLOGIES, LLC": {
+    "naics_code": "423430.0",
+    "naics_desc": null,
+    "awards_total": 0,
+    "locations": {}
+  },
+  "LONGENECKER & ASSOCIATES INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 28647150,
+    "locations": {}
+  },
+  "SC LOGIC, LLC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 21726,
+    "locations": {}
+  },
+  "BROWN POINT FACILITY MANAGEMENT SOLUTIONS, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 16850,
+    "locations": {}
+  },
+  "METROPOLITAN GROUP L.L.C.": {
+    "naics_code": "541910.0",
+    "naics_desc": null,
+    "awards_total": 729564,
+    "locations": {}
+  },
+  "PRENAX INC": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 831189,
+    "locations": {}
+  },
+  "DEEP WEB TECHNOLOGIES, INC.": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 838620,
+    "locations": {}
+  },
+  "AIP PUBLISHING LLC": {
+    "naics_code": "511120.0",
+    "naics_desc": null,
+    "awards_total": 549026,
+    "locations": {}
+  },
+  "AAR GOVERNMENT SERVICES INC": {
+    "naics_code": "488190.0",
+    "naics_desc": null,
+    "awards_total": 82853314,
+    "locations": {}
+  },
+  "NICK CHORAK MOWING & TILLING": {
+    "naics_code": "541320.0",
+    "naics_desc": null,
+    "awards_total": 2087360,
+    "locations": {}
+  },
+  "SIGNALSCAPE INC": {
+    "naics_code": "811212.0",
+    "naics_desc": null,
+    "awards_total": 82753,
+    "locations": {}
+  },
+  "DIGITAL STRATEGY LLC": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 14163134,
+    "locations": {}
+  },
+  "NOBIS ENTERPRISES, INC.": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 3394514,
+    "locations": {}
+  },
+  "JTF BUSINESS SYSTEMS CORPORATION": {
+    "naics_code": "323113.0",
+    "naics_desc": null,
+    "awards_total": 142800,
+    "locations": {}
+  },
+  "IDAHO STATE UNIVERSITY": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 67040,
+    "locations": {}
+  },
+  "NORTH WIND SITE SERVICES LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 1978920,
+    "locations": {}
+  },
+  "TELEDYNE FLIR DETECTION, INC": {
+    "naics_code": "334511.0",
+    "naics_desc": null,
+    "awards_total": 467034,
+    "locations": {}
+  },
+  "RIOS PARTNERS LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 12774916,
+    "locations": {}
+  },
+  "POTOMACWAVE CONSULTING, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 284838014,
+    "locations": {}
+  },
+  "YES ENERGY LLC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 1100000,
+    "locations": {}
+  },
+  "APOGEE GROUP, LLC": {
+    "naics_code": "237990.0",
+    "naics_desc": null,
+    "awards_total": 93053319,
+    "locations": {}
+  },
+  "PROSIDIAN CONSULTING LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 502586,
+    "locations": {}
+  },
+  "SIRIUS FEDERAL LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 29152,
+    "locations": {}
+  },
+  "RESEARCH TRIANGLE INSTITUTE": {
+    "naics_code": "513130.0",
+    "naics_desc": null,
+    "awards_total": 120131,
+    "locations": {}
+  },
+  "NEXIGHT GROUP LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 28181907,
+    "locations": {}
+  },
+  "THERMO ELECTRON NORTH AMERICA LLC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 332710,
+    "locations": {}
+  },
+  "SUCCESS THINC LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 4300,
+    "locations": {}
+  },
+  "WILDFLOWER INTERNATIONAL, LTD.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 65889,
+    "locations": {}
+  },
+  "HANKINS GROUP, INC.": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 7695360,
+    "locations": {}
+  },
+  "STILLWATER ASSOCIATES, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 2343816,
+    "locations": {}
+  },
+  "S. HARMAN AND ASSOCIATES, INC.": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 11384,
+    "locations": {}
+  },
+  "WM. S. TRIMBLE CO. INC.": {
+    "naics_code": "332321.0",
+    "naics_desc": null,
+    "awards_total": 22426,
+    "locations": {}
+  },
+  "ADVANCE SAFETY EQUIPMENT CO.": {
+    "naics_code": "541380.0",
+    "naics_desc": null,
+    "awards_total": 22480,
+    "locations": {}
+  },
+  "CONFERENCE SYSTEMS, INC.": {
+    "naics_code": "541930.0",
+    "naics_desc": null,
+    "awards_total": 45301,
+    "locations": {}
+  },
+  "DATASPLICE LLC": {
+    "naics_code": "611420.0",
+    "naics_desc": null,
+    "awards_total": 69840,
+    "locations": {}
+  },
+  "BELL TEXTRON INC": {
+    "naics_code": "611512.0",
+    "naics_desc": null,
+    "awards_total": 19000,
+    "locations": {}
+  },
+  "HOVEN EQUIPMENT COMPANY": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 12050,
+    "locations": {}
+  },
+  "ALEXTON INCORPORATED": {
+    "naics_code": "561410.0",
+    "naics_desc": null,
+    "awards_total": 23195359,
+    "locations": {}
+  },
+  "AVANTGARDE LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 19380083,
+    "locations": {}
+  },
+  "NaN": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 50022,
+    "locations": {}
+  },
+  "VERTOSOFT, LLC": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 97171,
+    "locations": {}
+  },
+  "TELEDYNE ENERGY SYSTEMS, INC.": {
+    "naics_code": "335999.0",
+    "naics_desc": null,
+    "awards_total": 16505390,
+    "locations": {}
+  },
+  "DOXCELERATE CORPORATION": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 4297212,
+    "locations": {}
+  },
+  "VASTA & ASSOCIATES INC": {
+    "naics_code": "541614.0",
+    "naics_desc": null,
+    "awards_total": 66667,
+    "locations": {}
+  },
+  "IHS GLOBAL INC.": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 2500324,
+    "locations": {}
+  },
+  "KIESLER POLICE SUPPLY INC": {
+    "naics_code": "315990.0",
+    "naics_desc": null,
+    "awards_total": 61009,
+    "locations": {}
+  },
+  "YCMATS LLC": {
+    "naics_code": "621999.0",
+    "naics_desc": null,
+    "awards_total": 2258,
+    "locations": {}
+  },
+  "SIEMENS INDUSTRY, INC.": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 592617,
+    "locations": {}
+  },
+  "ESCAL INSTITUTE OF ADVANCED TECHNOLOGIES, INC., THE": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 79960,
+    "locations": {}
+  },
+  "ACTONE GOVERNMENT SOLUTIONS, INC.": {
+    "naics_code": "611710.0",
+    "naics_desc": null,
+    "awards_total": 24999,
+    "locations": {}
+  },
+  "4 STAR TECHNOLOGIES INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 55136,
+    "locations": {}
+  },
+  "JDG ASSOCIATES LTD": {
+    "naics_code": "561312.0",
+    "naics_desc": null,
+    "awards_total": 297500,
+    "locations": {}
+  },
+  "LOGISTICS APPLICATIONS INC.": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 11752691,
+    "locations": {}
+  },
+  "LOUISIANA ENERGY SERVICES, LLC": {
+    "naics_code": "525990.0",
+    "naics_desc": null,
+    "awards_total": 2761577,
+    "locations": {}
+  },
+  "AIR RESCUE SYSTEMS CORP": {
+    "naics_code": "423860.0",
+    "naics_desc": null,
+    "awards_total": 14465,
+    "locations": {}
+  },
+  "FOTRONIC CORPORATION": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 93200,
+    "locations": {}
+  },
+  "CONTROLLED F.O.R.C.E INC.": {
+    "naics_code": "611699.0",
+    "naics_desc": null,
+    "awards_total": 10402194,
+    "locations": {}
+  },
+  "WOLTERS KLUWER FINANCIAL SERVICES, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 196771,
+    "locations": {}
+  },
+  "NEUCOMM SOLUTIONS, LLC": {
+    "naics_code": "541350.0",
+    "naics_desc": null,
+    "awards_total": 1328040,
+    "locations": {}
+  },
+  "ARINC DIRECT LLC": {
+    "naics_code": "336411.0",
+    "naics_desc": null,
+    "awards_total": 2122749,
+    "locations": {}
+  },
+  "OVERHEAD DOOR COMPANY OF CASPER, INC.": {
+    "naics_code": "238290.0",
+    "naics_desc": null,
+    "awards_total": 10250,
+    "locations": {}
+  },
+  "SPHERA SOLUTIONS, INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 77430,
+    "locations": {}
+  },
+  "S & K LOGISTICS SERVICES LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 57221956,
+    "locations": {}
+  },
+  "CITY AIR MECHANICAL INC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 49333,
+    "locations": {}
+  },
+  "THE ALONSO GROUP, LLC": {
+    "naics_code": "237990.0",
+    "naics_desc": null,
+    "awards_total": 1460207,
+    "locations": {}
+  },
+  "HOLDA MICHAEL A": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 64732,
+    "locations": {}
+  },
+  "SOUTHWESTERN BELL TELEPHONE COMPANY": {
+    "naics_code": "517110.0",
+    "naics_desc": null,
+    "awards_total": 121702,
+    "locations": {}
+  },
+  "TRI-COUNTY METROPOLITAN TRANSPORTATION DISTRICT OF OREGON": {
+    "naics_code": "485111.0",
+    "naics_desc": null,
+    "awards_total": 2492,
+    "locations": {}
+  },
+  "LEAF ENTERPRISES INC": {
+    "naics_code": "561710.0",
+    "naics_desc": null,
+    "awards_total": 88725,
+    "locations": {}
+  },
+  "ALUTIIQ PACIFIC, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 33885732,
+    "locations": {}
+  },
+  "SHERMAN + REILLY, INC.": {
+    "naics_code": "335932.0",
+    "naics_desc": null,
+    "awards_total": 33118,
+    "locations": {}
+  },
+  "DB TECHNOLOGIES, LLC": {
+    "naics_code": "541490.0",
+    "naics_desc": null,
+    "awards_total": 100000,
+    "locations": {}
+  },
+  "INTERNATIONAL TELEVISION CORPORATION": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 54610,
+    "locations": {}
+  },
+  "NUIX USG INC": {
+    "naics_code": "424120.0",
+    "naics_desc": null,
+    "awards_total": 168040,
+    "locations": {}
+  },
+  "BRIDGE GROUP, LLC, THE": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 314096,
+    "locations": {}
+  },
+  "INSIGHT MANAGEMENT CONSULTING, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 133325,
+    "locations": {}
+  },
+  "STRATEGIC NEWS INTERNATIONAL INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 62536,
+    "locations": {}
+  },
+  "DISTRIBUTED SOLUTIONS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1599198,
+    "locations": {}
+  },
+  "SITAR, NICHOLAS": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 6650,
+    "locations": {}
+  },
+  "WESTWIND COMPUTER PRODUCTS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1442045,
+    "locations": {}
+  },
+  "SAMPSON PARTNERS LLC": {
+    "naics_code": "339920.0",
+    "naics_desc": null,
+    "awards_total": 10080,
+    "locations": {}
+  },
+  "ON TRACK COACHING, LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 223452,
+    "locations": {}
+  },
+  "DISTRIBUTED TECHNOLOGY GROUP LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 363866,
+    "locations": {}
+  },
+  "CSI AVIATION INC": {
+    "naics_code": "561599.0",
+    "naics_desc": null,
+    "awards_total": 838392,
+    "locations": {}
+  },
+  "VETERAN INFORMATION TECHNOLOGIES, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1005854,
+    "locations": {}
+  },
+  "BY LIGHT PROFESSIONAL IT SERVICES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 583199,
+    "locations": {}
+  },
+  "BORDER STATES INDUSTRIES INC": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 68194,
+    "locations": {}
+  },
+  "LAMINATED WOOD SYSTEMS INC": {
+    "naics_code": "321215.0",
+    "naics_desc": null,
+    "awards_total": 278757,
+    "locations": {}
+  },
+  "VIAGLOBAL GROUP, L.L.C.": {
+    "naics_code": "611699.0",
+    "naics_desc": null,
+    "awards_total": 1263063,
+    "locations": {}
+  },
+  "TECHNOLOGY FOR ENERGY CORP": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 2970,
+    "locations": {}
+  },
+  "6BRANCHES INC.": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 5880,
+    "locations": {}
+  },
+  "OGIS COMMUNICATION GROUP, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 15373,
+    "locations": {}
+  },
+  "WILLIAM S. HEIN & CO., INC.": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 161305,
+    "locations": {}
+  },
+  "T M VACUUM PRODUCTS": {
+    "naics_code": "333994.0",
+    "naics_desc": null,
+    "awards_total": 1622000,
+    "locations": {}
+  },
+  "DAWNBREAKER INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 12285622,
+    "locations": {}
+  },
+  "FRAMERY, INC.": {
+    "naics_code": "337211.0",
+    "naics_desc": null,
+    "awards_total": 49973,
+    "locations": {}
+  },
+  "RIVERTECH LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 27207229,
+    "locations": {}
+  },
+  "BERT'S TRUCK EQUIPMENT OF MOORHEAD, INC.": {
+    "naics_code": "336211.0",
+    "naics_desc": null,
+    "awards_total": 98540,
+    "locations": {}
+  },
+  "AMERICAN TRUCK AND TRAILER, LLC": {
+    "naics_code": "336211.0",
+    "naics_desc": null,
+    "awards_total": 51252,
+    "locations": {}
+  },
+  "MORCOM INTERNATIONAL, INC.": {
+    "naics_code": "811213.0",
+    "naics_desc": null,
+    "awards_total": 214353,
+    "locations": {}
+  },
+  "BYNDER LLC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 81585,
+    "locations": {}
+  },
+  "KOI COMPUTERS, INC.": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 65990995,
+    "locations": {}
+  },
+  "ENTERPRISE TECHNICAL ASSISTANCE SERVICES INC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 1712707561,
+    "locations": {}
+  },
+  "JENKS, INC.": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 41748,
+    "locations": {}
+  },
+  "CORELOGIC SOLUTIONS, LLC": {
+    "naics_code": "522310.0",
+    "naics_desc": null,
+    "awards_total": 10000,
+    "locations": {}
+  },
+  "ANACAPA MICRO PRODUCTS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 133278,
+    "locations": {}
+  },
+  "CHENEGA WORLDWIDE SUPPORT, LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 4839348,
+    "locations": {}
+  },
+  "FCN INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 4267568,
+    "locations": {}
+  },
+  "AMAZON WEB SERVICES, INC.": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 375000,
+    "locations": {}
+  },
+  "GLOCK, INC.": {
+    "naics_code": "332994.0",
+    "naics_desc": null,
+    "awards_total": 37287,
+    "locations": {}
+  },
+  "ADVANCED SYSTEMS FOR POWER ENGINEERING, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 32928,
+    "locations": {}
+  },
+  "SUPPLYSOURCE DC, LLC": {
+    "naics_code": "337214.0",
+    "naics_desc": null,
+    "awards_total": 2367903,
+    "locations": {}
+  },
+  "CONCUR TECHNOLOGIES, INC.": {
+    "naics_code": "481111.0",
+    "naics_desc": null,
+    "awards_total": 1343142,
+    "locations": {}
+  },
+  "GREGG ENGINEERING INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 554700,
+    "locations": {}
+  },
+  "SOUTHWEST RESEARCH INSTITUTE": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 163232937,
+    "locations": {}
+  },
+  "TELEDYNE FLIR COMMERCIAL SYSTEMS INC.": {
+    "naics_code": "334513.0",
+    "naics_desc": null,
+    "awards_total": 66600,
+    "locations": {}
+  },
+  "ACCESS ELECTRIC SUPPLY INC": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 278620,
+    "locations": {}
+  },
+  "AMES 1, LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 3392542,
+    "locations": {}
+  },
+  "LIONHEART ALLIANCE, LLC": {
+    "naics_code": "315990.0",
+    "naics_desc": null,
+    "awards_total": 327066,
+    "locations": {}
+  },
+  "AMERICAN HEALTHCARE SERVICES JV LLC": {
+    "naics_code": "621112.0",
+    "naics_desc": null,
+    "awards_total": 1975373,
+    "locations": {}
+  },
+  "WRIGHT TIMBER CONTRACTING": {
+    "naics_code": "611699.0",
+    "naics_desc": null,
+    "awards_total": 69000,
+    "locations": {}
+  },
+  "JNV GROUP": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 1039000,
+    "locations": {}
+  },
+  "DIGIS CORPORATION": {
+    "naics_code": "334512.0",
+    "naics_desc": null,
+    "awards_total": 26698,
+    "locations": {}
+  },
+  "PINYON ENVIRONMENTAL, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 77739,
+    "locations": {}
+  },
+  "FLATWATER SOLUTIONS COMPANY": {
+    "naics_code": "333316.0",
+    "naics_desc": null,
+    "awards_total": 145095,
+    "locations": {}
+  },
+  "MIDLAND SCIENTIFIC INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 79182,
+    "locations": {}
+  },
+  "ASC GP, INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 161016,
+    "locations": {}
+  },
+  "JOHNSON CONTROLS FIRE PROTECTION LP": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 685435,
+    "locations": {}
+  },
+  "PITCHBOOK DATA INC": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 445118,
+    "locations": {}
+  },
+  "FLUOR FEDERAL SERVICES INC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 512098637,
+    "locations": {}
+  },
+  "TETRA TECH, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 38008053,
+    "locations": {}
+  },
+  "LEVITAN & ASSOCIATES INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 1871500,
+    "locations": {}
+  },
+  "ALLEN & OVERY LLP": {
+    "naics_code": "541110.0",
+    "naics_desc": null,
+    "awards_total": 28778,
+    "locations": {}
+  },
+  "GROTBERG ELECTRIC INC": {
+    "naics_code": "333414.0",
+    "naics_desc": null,
+    "awards_total": 20752,
+    "locations": {}
+  },
+  "TECHLAW CONSULTANTS, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 11027265,
+    "locations": {}
+  },
+  "AGUSTAWESTLAND PHILADELPHIA CORPORATION": {
+    "naics_code": "336411.0",
+    "naics_desc": null,
+    "awards_total": 158807376,
+    "locations": {}
+  },
+  "FAIRWINDS TECHNOLOGIES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 47773,
+    "locations": {}
+  },
+  "ADVANCED MANAGEMENT STRATEGIES GROUP, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 35015555,
+    "locations": {}
+  },
+  "SJ TECHNOLOGIES, INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 563045,
+    "locations": {}
+  },
+  "TECHNICAL RESOURCES GROUP INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 12821752,
+    "locations": {}
+  },
+  "PHI BETA SIGMA FRATERNITY": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 20000,
+    "locations": {}
+  },
+  "GREAT EASTERN RESORT MANAGEMENT, INC.": {
+    "naics_code": "721110.0",
+    "naics_desc": null,
+    "awards_total": 18591,
+    "locations": {}
+  },
+  "HENRY HATHAWAY": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 495644,
+    "locations": {}
+  },
+  "ETG-FIRE LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 15570,
+    "locations": {}
+  },
+  "MILLINGTON LOCKWOOD, INC.": {
+    "naics_code": "337214.0",
+    "naics_desc": null,
+    "awards_total": 29866,
+    "locations": {}
+  },
+  "CENTERLINE MECHANICAL LLC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 289171,
+    "locations": {}
+  },
+  "COMPREVIVE, LLC": {
+    "naics_code": "334519.0",
+    "naics_desc": null,
+    "awards_total": 0,
+    "locations": {}
+  },
+  "NORTHWESTERN UNIVERSITY": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 202800,
+    "locations": {}
+  },
+  "TUKNIK GOVERNMENT SERVICES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 18104619,
+    "locations": {}
+  },
+  "SE INC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 29582608,
+    "locations": {}
+  },
+  "SKILLSOFT (US) LLC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 728696,
+    "locations": {}
+  },
+  "OXFORD INSTRUMENTS AMERICA, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 231195,
+    "locations": {}
+  },
+  "ACCESSAGILITY LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 116977,
+    "locations": {}
+  },
+  "SFS CHEMICAL SAFETY INC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 173409,
+    "locations": {}
+  },
+  "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 30000,
+    "locations": {}
+  },
+  "CHICKASAW MANAGEMENT SERVICES, LLC": {
+    "naics_code": "541810.0",
+    "naics_desc": null,
+    "awards_total": 4330203,
+    "locations": {}
+  },
+  "REDHAWK IT SOLUTIONS, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 466041,
+    "locations": {}
+  },
+  "SOUTHERN OHIO CLEANUP COMPANY LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 4976381,
+    "locations": {}
+  },
+  "NCS TECHNOLOGIES INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 8918,
+    "locations": {}
+  },
+  "BLOOMBERG FINANCE L.P.": {
+    "naics_code": "519190.0",
+    "naics_desc": null,
+    "awards_total": 139891,
+    "locations": {}
+  },
+  "MISSION SUPPORT ALLIANCE, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 19564381336,
+    "locations": {}
+  },
+  "GALVANIZERS INC": {
+    "naics_code": "331210.0",
+    "naics_desc": null,
+    "awards_total": 200142,
+    "locations": {}
+  },
+  "REVVITY HEALTH SCIENCES, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 172512,
+    "locations": {}
+  },
+  "OMNI BUSINESS SYSTEMS, INC": {
+    "naics_code": "532420.0",
+    "naics_desc": null,
+    "awards_total": 566585,
+    "locations": {}
+  },
+  "DEVELOPMENTAL DISABILITIES RESOURCE CENTER": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 10360,
+    "locations": {}
+  },
+  "QUEST DIAGNOSTICS CLINICAL LABORATORIES, INC.": {
+    "naics_code": "621999.0",
+    "naics_desc": null,
+    "awards_total": 255875,
+    "locations": {}
+  },
+  "WILLIS TOWERS WATSON US LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 19000,
+    "locations": {}
+  },
+  "MOONRAKER ENTERPRISES, LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 24100,
+    "locations": {}
+  },
+  "LANCER INFORMATION SOLUTIONS, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 34405,
+    "locations": {}
+  },
+  "BARNETT INTERNATIONAL INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 1029684,
+    "locations": {}
+  },
+  "BUSINESS MANAGEMENT RESEARCH ASSOCIATES, INC.": {
+    "naics_code": "323117.0",
+    "naics_desc": null,
+    "awards_total": 22032,
+    "locations": {}
+  },
+  "EMERGENT, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2556838,
+    "locations": {}
+  },
+  "WERK WELD INC": {
+    "naics_code": "333992.0",
+    "naics_desc": null,
+    "awards_total": 618,
+    "locations": {}
+  },
+  "SYNTHESIS PARTNERS LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 1099790,
+    "locations": {}
+  },
+  "NAC INTERNATIONAL INC.": {
+    "naics_code": "484230.0",
+    "naics_desc": null,
+    "awards_total": 36623954,
+    "locations": {}
+  },
+  "TEAMS & LEADERS, INC.": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 11900,
+    "locations": {}
+  },
+  "AKIRA TECHNOLOGIES INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 1075738,
+    "locations": {}
+  },
+  "GOTHAM GOVERNMENT SERVICES LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 330000,
+    "locations": {}
+  },
+  "HEARTLAND-ENERGETICS JOINT VENTURE LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 1560331,
+    "locations": {}
+  },
+  "BUCKEYE TERMINALS, LLC": {
+    "naics_code": "493190.0",
+    "naics_desc": null,
+    "awards_total": 92779860,
+    "locations": {}
+  },
+  "THE GEORGE MASON UNIVERSITY INSTRUCTIONAL FOUNDATION, INC.": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 213327,
+    "locations": {}
+  },
+  "EDDIE'S TRUCK CENTER, INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 26136,
+    "locations": {}
+  },
+  "AMETEK PROGRAMMABLE POWER, INC.": {
+    "naics_code": "336992.0",
+    "naics_desc": null,
+    "awards_total": 58663,
+    "locations": {}
+  },
+  "MELWOOD HORTICULTURAL TRAINING CENTER, INC.": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 9444608,
+    "locations": {}
+  },
+  "DNV ENERGY INSIGHTS USA INC.": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 47706,
+    "locations": {}
+  },
+  "COOPERATIVE PERSONNEL SERVICES": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 73200,
+    "locations": {}
+  },
+  "DAVEY RESOURCE GROUP, INC.": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 2550420,
+    "locations": {}
+  },
+  "GRANITE TELECOMMUNICATIONS, LLC": {
+    "naics_code": "517919.0",
+    "naics_desc": null,
+    "awards_total": 30765,
+    "locations": {}
+  },
+  "BENTON, COUNTY OF": {
+    "naics_code": "922120.0",
+    "naics_desc": null,
+    "awards_total": 10591737,
+    "locations": {}
+  },
+  "BWXT NUCLEAR OPERATIONS GROUP, INC.": {
+    "naics_code": "325180.0",
+    "naics_desc": null,
+    "awards_total": 300000,
+    "locations": {}
+  },
+  "AGILENT TECHNOLOGIES INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 31011,
+    "locations": {}
+  },
+  "CRA INTERNATIONAL, INC.": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 630000,
+    "locations": {}
+  },
+  "STRATEGIC COMMUNICATIONS LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 305433,
+    "locations": {}
+  },
+  "CHEM-NUCLEAR SYSTEMS, L.L.C": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 14258,
+    "locations": {}
+  },
+  "STELLARRAY INC": {
+    "naics_code": "334517.0",
+    "naics_desc": null,
+    "awards_total": 3992392,
+    "locations": {}
+  },
+  "PEMBROOKE OCCUPATIONAL HEALTH, INC.": {
+    "naics_code": "621999.0",
+    "naics_desc": null,
+    "awards_total": 959667,
+    "locations": {}
+  },
+  "MIRACORP INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 20800945,
+    "locations": {}
+  },
+  "ENERGYSOLUTIONS, LLC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 13842,
+    "locations": {}
+  },
+  "LTD GLOBAL, LLC": {
+    "naics_code": "561110.0",
+    "naics_desc": null,
+    "awards_total": 32048162,
+    "locations": {}
+  },
+  "MAS CONSULTANTS & POINT SIX INC.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 673422,
+    "locations": {}
+  },
+  "MAGRITEK INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 196200,
+    "locations": {}
+  },
+  "GATAN INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 26697,
+    "locations": {}
+  },
+  "SKYTRAC SYSTEMS LTD": {
+    "naics_code": "517410.0",
+    "naics_desc": null,
+    "awards_total": 12730,
+    "locations": {}
+  },
+  "ENERGY MANAGEMENT ENGINEERING, INC.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 130619,
+    "locations": {}
+  },
+  "POINT MENTION LLC": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 8400,
+    "locations": {}
+  },
+  "CADRE5 LLC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 46061813,
+    "locations": {}
+  },
+  "CONSUMER TECHNOLOGY ASSOCIATION": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 58000,
+    "locations": {}
+  },
+  "UGI ENERGY SERVICES, LLC": {
+    "naics_code": "211130.0",
+    "naics_desc": null,
+    "awards_total": 1894949,
+    "locations": {}
+  },
+  "KATHLEEN NALTY CONSULTING LLC": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 12680,
+    "locations": {}
+  },
+  "LUMEN TECHNOLOGIES GOVERNMENT SOLUTIONS, INC": {
+    "naics_code": "517311.0",
+    "naics_desc": null,
+    "awards_total": 190919,
+    "locations": {}
+  },
+  "MELTWATER NEWS US INC.": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 45000,
+    "locations": {}
+  },
+  "SHIMADZU SCIENTIFIC INSTRUMENTS, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 18894,
+    "locations": {}
+  },
+  "CINCINNATI BELL TELEPHONE COMPANY LLC": {
+    "naics_code": "517111.0",
+    "naics_desc": null,
+    "awards_total": 155023,
+    "locations": {}
+  },
+  "GREY STREET CONSULTING, LLC": {
+    "naics_code": "561110.0",
+    "naics_desc": null,
+    "awards_total": 4030863,
+    "locations": {}
+  },
+  "FEDERAL TECHNOLOGY SOLUTIONS, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 4194,
+    "locations": {}
+  },
+  "WASEYABEK-CTI ENVIRONMENTAL SERVICES JV LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 397664,
+    "locations": {}
+  },
+  "MATERIALS DESIGN, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 16000,
+    "locations": {}
+  },
+  "R.S. MEANS COMPANY LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 488140,
+    "locations": {}
+  },
+  "ALLIANCE TECHNOLOGY GROUP LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 49008,
+    "locations": {}
+  },
+  "CENTERS FOR HABILITATION, THE": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 8366696,
+    "locations": {}
+  },
+  "US ECOLOGY WASHINGTON INC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 19200,
+    "locations": {}
+  },
+  "MIDWAY TRAILERS, INC.": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 147632,
+    "locations": {}
+  },
+  "SIDEM LLC": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 405963,
+    "locations": {}
+  },
+  "SIERRA TAHOE INVESTIGATIONS": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 9000,
+    "locations": {}
+  },
+  "INNOVATIVE TECHNOLOGY PARTNERSHIPS LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 163652223,
+    "locations": {}
+  },
+  "DELTA FIRE & SAFETY INC": {
+    "naics_code": "334513.0",
+    "naics_desc": null,
+    "awards_total": 119700,
+    "locations": {}
+  },
+  "CARTRIDGE TECHNOLOGIES, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 35179,
+    "locations": {}
+  },
+  "ALTEC INDUSTRIES, INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 84287,
+    "locations": {}
+  },
+  "RECOVERY POINT SYSTEMS INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 4553880,
+    "locations": {}
+  },
+  "NASCENCE GROUP LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 12900,
+    "locations": {}
+  },
+  "ASAP DOOR REPAIR & SERVICE, INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 9783,
+    "locations": {}
+  },
+  "RELIANCE RELOCATION SERVICES, INC.": {
+    "naics_code": "484210.0",
+    "naics_desc": null,
+    "awards_total": 108328,
+    "locations": {}
+  },
+  "GE ENERGY MANAGEMENT SERVICES, LLC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 1856419,
+    "locations": {}
+  },
+  "L3HARRIS TECHNOLOGIES, INC.": {
+    "naics_code": "811213.0",
+    "naics_desc": null,
+    "awards_total": 14956549,
+    "locations": {}
+  },
+  "BRANDON STAFFING SOLUTIONS LLC": {
+    "naics_code": "561312.0",
+    "naics_desc": null,
+    "awards_total": 11476,
+    "locations": {}
+  },
+  "OREGON STATE UNIVERSITY": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 6521,
+    "locations": {}
+  },
+  "HUMAN RESOURCE DIMENSIONS, INC.": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 13500,
+    "locations": {}
+  },
+  "DOW JONES & CO INC": {
+    "naics_code": "519190.0",
+    "naics_desc": null,
+    "awards_total": 110267,
+    "locations": {}
+  },
+  "FEDERAL RESOURCES CORPORATION": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 58289,
+    "locations": {}
+  },
+  "ACADIA PROTECTIVE SERVICES LLC": {
+    "naics_code": "561612.0",
+    "naics_desc": null,
+    "awards_total": 11377182,
+    "locations": {}
+  },
+  "INTEGRATION TECHNOLOGIES GROUP, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 57834,
+    "locations": {}
+  },
+  "ARCHETYPE II LLC": {
+    "naics_code": "523930.0",
+    "naics_desc": null,
+    "awards_total": 34374927,
+    "locations": {}
+  },
+  "CAPRICE ELECTRONICS, INC": {
+    "naics_code": "332510.0",
+    "naics_desc": null,
+    "awards_total": 12819,
+    "locations": {}
+  },
+  "TRANSPACIFIC COMMUNICATIONS LLC": {
+    "naics_code": "541930.0",
+    "naics_desc": null,
+    "awards_total": 30772,
+    "locations": {}
+  },
+  "ADMIRAL ELEVATOR COMPANY, INC.": {
+    "naics_code": "333921.0",
+    "naics_desc": null,
+    "awards_total": 113096,
+    "locations": {}
+  },
+  "TRAIL-EZE, INC.": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 354308,
+    "locations": {}
+  },
+  "BESTWAY ELECTRIC MOTOR SERVICE CO INC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 52335,
+    "locations": {}
+  },
+  "SIEMENS GOVERNMENT TECHNOLOGIES INC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 105772634,
+    "locations": {}
+  },
+  "NORTH WIND SOLUTIONS, LLC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 1448278923,
+    "locations": {}
+  },
+  "ASPEN EQUIPMENT LLC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 78368,
+    "locations": {}
+  },
+  "BETTERUP, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 1800000,
+    "locations": {}
+  },
+  "J. H. TECHNOLOGIES, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 43921,
+    "locations": {}
+  },
+  "MGS INC": {
+    "naics_code": "336212.0",
+    "naics_desc": null,
+    "awards_total": 38103,
+    "locations": {}
+  },
+  "THE PEAK INC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 200542,
+    "locations": {}
+  },
+  "UNITED SALES ASSOCIATES INC": {
+    "naics_code": "335911.0",
+    "naics_desc": null,
+    "awards_total": 232744,
+    "locations": {}
+  },
+  "3T BUSINESS GROUP LLC": {
+    "naics_code": "335999.0",
+    "naics_desc": null,
+    "awards_total": 55740,
+    "locations": {}
+  },
+  "NATIONAL CAPITOL CONTRACTING, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 334231,
+    "locations": {}
+  },
+  "JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE": {
+    "naics_code": "541713.0",
+    "naics_desc": null,
+    "awards_total": 1256106,
+    "locations": {}
+  },
+  "TIBARAY, INC.": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 4815028,
+    "locations": {}
+  },
+  "CANON U.S.A., INC.": {
+    "naics_code": "333316.0",
+    "naics_desc": null,
+    "awards_total": 218018,
+    "locations": {}
+  },
+  "NORTON ROSE FULBRIGHT US LLP": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 1310060,
+    "locations": {}
+  },
+  "DISCOVER TECHNOLOGIES LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 37147,
+    "locations": {}
+  },
+  "EUCLID TECHLABS, LLC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 3359788,
+    "locations": {}
+  },
+  "RADIABEAM SYSTEMS, LLC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 1558088,
+    "locations": {}
+  },
+  "STARFIRE INDUSTRIES LLC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 2090898,
+    "locations": {}
+  },
+  "APPLIED SPECTRA INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 1356513,
+    "locations": {}
+  },
+  "PM CONNECTIONS LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 1965369,
+    "locations": {}
+  },
+  "OFS BRANDS HOLDINGS INC.": {
+    "naics_code": "337214.0",
+    "naics_desc": null,
+    "awards_total": 8176,
+    "locations": {}
+  },
+  "MILLERKNOLL, INC.": {
+    "naics_code": "337214.0",
+    "naics_desc": null,
+    "awards_total": 43666,
+    "locations": {}
+  },
+  "VFAIRS LLC": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 30000,
+    "locations": {}
+  },
+  "CROWN CASTLE FIBER LLC": {
+    "naics_code": "517311.0",
+    "naics_desc": null,
+    "awards_total": 155000,
+    "locations": {}
+  },
+  "TRACTOR & EQUIPMENT CO": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 11712,
+    "locations": {}
+  },
+  "COOKS AIR CONDITIONING & HEATING, INC.": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 93258,
+    "locations": {}
+  },
+  "ERI ECONOMIC RESEARCH INSTITUTE, INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 9701,
+    "locations": {}
+  },
+  "AMT DIVERSIFIED CONSTRUCTION": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 393070,
+    "locations": {}
+  },
+  "NORTHWEST NATURAL GAS CO": {
+    "naics_code": "221210.0",
+    "naics_desc": null,
+    "awards_total": 575550,
+    "locations": {}
+  },
+  "CITY OF ALBANY": {
+    "naics_code": "221310.0",
+    "naics_desc": null,
+    "awards_total": 1058684,
+    "locations": {}
+  },
+  "NORSEMAN INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 37676,
+    "locations": {}
+  },
+  "SAVE AGAIN.COM": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 36628,
+    "locations": {}
+  },
+  "TECHNOLOGY VENTURES, INC.": {
+    "naics_code": "493110.0",
+    "naics_desc": null,
+    "awards_total": 5550740,
+    "locations": {}
+  },
+  "IDENTIV, INC.": {
+    "naics_code": "334290.0",
+    "naics_desc": null,
+    "awards_total": 51791,
+    "locations": {}
+  },
+  "SILVER FOX PIPELINE AND FACILITY SERVICES INC.": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 1568773,
+    "locations": {}
+  },
+  "CITY OF MORGANTOWN": {
+    "naics_code": "922160.0",
+    "naics_desc": null,
+    "awards_total": 117600,
+    "locations": {}
+  },
+  "TERRY MULLENS": {
+    "naics_code": "561740.0",
+    "naics_desc": null,
+    "awards_total": 7020,
+    "locations": {}
+  },
+  "JOHN DEERE SHARED SERVICES, LLC": {
+    "naics_code": "333120.0",
+    "naics_desc": null,
+    "awards_total": 332381,
+    "locations": {}
+  },
+  "BOILER SUPPLY COMPANY, INCORPORATED": {
+    "naics_code": "238990.0",
+    "naics_desc": null,
+    "awards_total": 14220,
+    "locations": {}
+  },
+  "SIERRA BUILDING SYSTEMS, INC., A LOW VOLTAGE INTEGRATOR": {
+    "naics_code": "561621.0",
+    "naics_desc": null,
+    "awards_total": 346120,
+    "locations": {}
+  },
+  "BSE PERFORMANCE LLC": {
+    "naics_code": "321114.0",
+    "naics_desc": null,
+    "awards_total": 88064,
+    "locations": {}
+  },
+  "PEELE INC": {
+    "naics_code": "561790.0",
+    "naics_desc": null,
+    "awards_total": 261017,
+    "locations": {}
+  },
+  "ALL PHASE SOLUTIONS LLC": {
+    "naics_code": "238390.0",
+    "naics_desc": null,
+    "awards_total": 411864,
+    "locations": {}
+  },
+  "BEST PLUMBING HEATING & COOLING LLC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 133855,
+    "locations": {}
+  },
+  "IMMIXTECHNOLOGY INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 11430,
+    "locations": {}
+  },
+  "OVID TECHNOLOGIES, INC.": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 10518,
+    "locations": {}
+  },
+  "ESPINOZA CULTURAL SERVICES, LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 381923,
+    "locations": {}
+  },
+  "PUBLISHERS INTERNATIONAL LINKING ASSOCIATION, INC.": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 30000,
+    "locations": {}
+  },
+  "REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 302277501612,
+    "locations": {}
+  },
+  "KEMP CURT": {
+    "naics_code": "811412.0",
+    "naics_desc": null,
+    "awards_total": 154991,
+    "locations": {}
+  },
+  "COMCAST BUSINESS COMMUNICATIONS, LLC": {
+    "naics_code": "517110.0",
+    "naics_desc": null,
+    "awards_total": 416849,
+    "locations": {}
+  },
+  "HI COUNTRY WIRE & TELEPHONE LTD.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 157066,
+    "locations": {}
+  },
+  "TMI COATINGS INC": {
+    "naics_code": "238320.0",
+    "naics_desc": null,
+    "awards_total": 33800,
+    "locations": {}
+  },
+  "BLUEGRASS OFFICE SYSTEMS, INC.": {
+    "naics_code": "532420.0",
+    "naics_desc": null,
+    "awards_total": 30380,
+    "locations": {}
+  },
+  "2SRG LLC": {
+    "naics_code": "621999.0",
+    "naics_desc": null,
+    "awards_total": 14590968,
+    "locations": {}
+  },
+  "DELTEK INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 19665,
+    "locations": {}
+  },
+  "KONE INC.": {
+    "naics_code": "238290.0",
+    "naics_desc": null,
+    "awards_total": 11768,
+    "locations": {}
+  },
+  "BUSINESS & OFFICE SYSTEM SERVICES LLC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 7200,
+    "locations": {}
+  },
+  "LINCUS INC": {
+    "naics_code": "561990.0",
+    "naics_desc": null,
+    "awards_total": 29276,
+    "locations": {}
+  },
+  "J FOSTER & ASSOCIATES LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 2801864,
+    "locations": {}
+  },
+  "EXEMPLIS LLC": {
+    "naics_code": "337214.0",
+    "naics_desc": null,
+    "awards_total": 13728,
+    "locations": {}
+  },
+  "STUART B. CONSULTANTS, INC.": {
+    "naics_code": "541930.0",
+    "naics_desc": null,
+    "awards_total": 59880,
+    "locations": {}
+  },
+  "BIO-LOGIC USA, LLC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 139763,
+    "locations": {}
+  },
+  "HIGH VOLTAGE, INC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 1280541,
+    "locations": {}
+  },
+  "SHEARMAN & STERLING LLP": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 1454500,
+    "locations": {}
+  },
+  "ACME AUTO LEASING LLC": {
+    "naics_code": "532112.0",
+    "naics_desc": null,
+    "awards_total": 16740,
+    "locations": {}
+  },
+  "BEN FITZGERALD REAL ESTATE SERVICES, L.L.C.": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 56947,
+    "locations": {}
+  },
+  "CLEAN HARBORS ENVIRONMENTAL SERVICES INC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 3069,
+    "locations": {}
+  },
+  "INTERMOUNTAIN LOCK AND SECURITY SUPPLY CO": {
+    "naics_code": "334290.0",
+    "naics_desc": null,
+    "awards_total": 14727,
+    "locations": {}
+  },
+  "SYMMETRY ENERGY SOLUTIONS LLC": {
+    "naics_code": "211130.0",
+    "naics_desc": null,
+    "awards_total": 41046616,
+    "locations": {}
+  },
+  "FITNESS EXPERIENCE ALBANY, INC.": {
+    "naics_code": "713940.0",
+    "naics_desc": null,
+    "awards_total": 96032,
+    "locations": {}
+  },
+  "SOUTH PARK TOWNSHIP SEWER AUTH": {
+    "naics_code": "221320.0",
+    "naics_desc": null,
+    "awards_total": 84480,
+    "locations": {}
+  },
+  "GREEN WAY PRO CHEM LAWN INC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 895250,
+    "locations": {}
+  },
+  "GANS & PUGH ASSOCIATES, INC.": {
+    "naics_code": "334310.0",
+    "naics_desc": null,
+    "awards_total": 32058,
+    "locations": {}
+  },
+  "QUIK-SOLV CLEANING SERVICE INC.": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 75860,
+    "locations": {}
+  },
+  "BRUIN WASTE MANAGEMENT LLC": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 10081,
+    "locations": {}
+  },
+  "PENNSYLVANIA - AMERICAN WATER COMPANY": {
+    "naics_code": "221310.0",
+    "naics_desc": null,
+    "awards_total": 218500,
+    "locations": {}
+  },
+  "GUROBI OPTIMIZATION, LLC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 38120,
+    "locations": {}
+  },
+  "WASTREN - ENERGX MISSION SUPPORT LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 674073788,
+    "locations": {}
+  },
+  "WSP USA SOLUTIONS INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 11015283,
+    "locations": {}
+  },
+  "SOUTHWEST DISTRIBUTION INC": {
+    "naics_code": "424920.0",
+    "naics_desc": null,
+    "awards_total": 64385,
+    "locations": {}
+  },
+  "CPR SAVERS & FIRST AID SUPPLY LLC": {
+    "naics_code": "315234.0",
+    "naics_desc": null,
+    "awards_total": 14245,
+    "locations": {}
+  },
+  "RARESTEP, INC.": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 42009,
+    "locations": {}
+  },
+  "HALLPASS CAPITAL INC": {
+    "naics_code": "335110.0",
+    "naics_desc": null,
+    "awards_total": 103687,
+    "locations": {}
+  },
+  "SPORTS EXHIBITION AUTHORITY OF PITTSBURGH & ALLEGHENY COUNTY": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 85800,
+    "locations": {}
+  },
+  "CLIFFORD CHANCE US LLP": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 2500000,
+    "locations": {}
+  },
+  "CARNEGIE MELLON UNIVERSITY": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 160000,
+    "locations": {}
+  },
+  "FEI COMPANY": {
+    "naics_code": "811219.0",
+    "naics_desc": null,
+    "awards_total": 349146,
+    "locations": {}
+  },
+  "MCG ENERGY SOLUTIONS LLC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 12497672,
+    "locations": {}
+  },
+  "MANAGEMENT CONCEPTS, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 471743,
+    "locations": {}
+  },
+  "MOLO LAMKEN LLP": {
+    "naics_code": "541110.0",
+    "naics_desc": null,
+    "awards_total": 400000,
+    "locations": {}
+  },
+  "ENVIRONMENTAL RESOURCES MANAGEMENT INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 760316,
+    "locations": {}
+  },
+  "MEYER, JEREMY": {
+    "naics_code": "339944.0",
+    "naics_desc": null,
+    "awards_total": 10015,
+    "locations": {}
+  },
+  "MONONGAHELA POWER COMPANY": {
+    "naics_code": "221112.0",
+    "naics_desc": null,
+    "awards_total": 29040776,
+    "locations": {}
+  },
+  "WYANDOTTE SERVICES": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 14792705,
+    "locations": {}
+  },
+  "ARGUS MEDIA INC": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 813703,
+    "locations": {}
+  },
+  "HENRY L STIMSON CENTER": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 23557354,
+    "locations": {}
+  },
+  "RE TECH ADVISORS, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 41432585,
+    "locations": {}
+  },
+  "GOLDSIM TECHNOLOGY GROUP LLC": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 255000,
+    "locations": {}
+  },
+  "SOLIT, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 122996,
+    "locations": {}
+  },
+  "HOLLAND & KNIGHT LLP": {
+    "naics_code": "541110.0",
+    "naics_desc": null,
+    "awards_total": 32400,
+    "locations": {}
+  },
+  "HEWLETT PACKARD ENTERPRISE COMPANY": {
+    "naics_code": "811212.0",
+    "naics_desc": null,
+    "awards_total": 127480,
+    "locations": {}
+  },
+  "GIANT OAK, INC.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 3798150,
+    "locations": {}
+  },
+  "SEVENTH SENSE CONSULTING LLC": {
+    "naics_code": "541618.0",
+    "naics_desc": null,
+    "awards_total": 1742850,
+    "locations": {}
+  },
+  "EXECUTIVE INFORMATION SYSTEMS LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 628086,
+    "locations": {}
+  },
+  "PORTSMOUTH MISSION ALLIANCE LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 432844596,
+    "locations": {}
+  },
+  "IX LIBERTY CENTER OWNER LP": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 20658,
+    "locations": {}
+  },
+  "MCBEE BAILEY & ASSOCIATES CONSTRUCTION LLC": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 142006,
+    "locations": {}
+  },
+  "NEVADA SYSTEM OF HIGHER EDUCATION": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 1917688,
+    "locations": {}
+  },
+  "L3 TECHNOLOGIES, INC.": {
+    "naics_code": "333314.0",
+    "naics_desc": null,
+    "awards_total": 18412,
+    "locations": {}
+  },
+  "ARIS ENERGY SOLUTIONS LLC": {
+    "naics_code": "334413.0",
+    "naics_desc": null,
+    "awards_total": 77380,
+    "locations": {}
+  },
+  "HAMILTON ASSOCIATES INC": {
+    "naics_code": "541380.0",
+    "naics_desc": null,
+    "awards_total": 10107648,
+    "locations": {}
+  },
+  "NU ERA ENTERPRISES, INC.": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 193870,
+    "locations": {}
+  },
+  "DERINGTON, WILLIAM AIA": {
+    "naics_code": "541310.0",
+    "naics_desc": null,
+    "awards_total": 0,
+    "locations": {}
+  },
+  "MAGNET FORENSICS USA, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 94203,
+    "locations": {}
+  },
+  "CHENEGA INFINITY, LLC": {
+    "naics_code": "561612.0",
+    "naics_desc": null,
+    "awards_total": 9986039,
+    "locations": {}
+  },
+  "ROYAL ARMS INTERNATIONAL, INC.": {
+    "naics_code": "332992.0",
+    "naics_desc": null,
+    "awards_total": 61200,
+    "locations": {}
+  },
+  "DELOITTE & TOUCHE LLP": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 489644,
+    "locations": {}
+  },
+  "SOUTH DAKOTA ACHIEVE": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 15892,
+    "locations": {}
+  },
+  "SOUTHWESTERN PUBLIC SERVICE COMPANY": {
+    "naics_code": "221122.0",
+    "naics_desc": null,
+    "awards_total": 20000000,
+    "locations": {}
+  },
+  "AMERICAN ELECTRIC POWER COMPANY, INC.": {
+    "naics_code": "221112.0",
+    "naics_desc": null,
+    "awards_total": 5160000,
+    "locations": {}
+  },
+  "GOVERNMENT MARKETING AND PROCUREMENT, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 111600,
+    "locations": {}
+  },
+  "GLOBAFONE INC": {
+    "naics_code": "517410.0",
+    "naics_desc": null,
+    "awards_total": 129898,
+    "locations": {}
+  },
+  "EWING ELECTRONICS, INC.": {
+    "naics_code": "334220.0",
+    "naics_desc": null,
+    "awards_total": 412131,
+    "locations": {}
+  },
+  "AECOM ENERGY & CONSTRUCTION, INC.": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 155486922,
+    "locations": {}
+  },
+  "JC TECHNOLOGY INC": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 33000,
+    "locations": {}
+  },
+  "CYNTHIA B SIMONSON": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 9479508,
+    "locations": {}
+  },
+  "EMERALD ELECTRICAL CONSULTANTS LLC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 2216809,
+    "locations": {}
+  },
+  "SITECORE USA, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 72090,
+    "locations": {}
+  },
+  "AEROSTAR PERMA-FIX TRU SERVICES LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 21566208,
+    "locations": {}
+  },
+  "THE TRAINING CONNECTION INC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 66868,
+    "locations": {}
+  },
+  "DS GOVERNMENT SOLUTIONS CORP": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 82407,
+    "locations": {}
+  },
+  "OCLC, INC": {
+    "naics_code": "519120.0",
+    "naics_desc": null,
+    "awards_total": 105497,
+    "locations": {}
+  },
+  "FIELDS GROUP LLC, THE": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 1177723,
+    "locations": {}
+  },
+  "SARGENT & LUNDY, L.L.C.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 7815822,
+    "locations": {}
+  },
+  "NATIONAL ECONOMIC RESEARCH ASSOCIATES INC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 526752,
+    "locations": {}
+  },
+  "PROFESSIONAL VETS CONSULTING GROUP, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 1842159,
+    "locations": {}
+  },
+  "WRIM MANAGEMENT LLC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 19056,
+    "locations": {}
+  },
+  "NORESCO, LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 83439804,
+    "locations": {}
+  },
+  "FEDTEK, INC.": {
+    "naics_code": "334111.0",
+    "naics_desc": null,
+    "awards_total": 44835,
+    "locations": {}
+  },
+  "PRINOTH OF NORTH AMERICA INC": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 79448,
+    "locations": {}
+  },
+  "GOVERNMENT PROPERTIES INCOME TRUST LLC": {
+    "naics_code": "561790.0",
+    "naics_desc": null,
+    "awards_total": 347342,
+    "locations": {}
+  },
+  "NATIONAL SOCIETY OF BLACK ENGINEERS": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 32500,
+    "locations": {}
+  },
+  "ENSCO INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 11897846,
+    "locations": {}
+  },
+  "COLORADO WEED CONTROL, INC.": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 434260,
+    "locations": {}
+  },
+  "ORCID, INC.": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 337244,
+    "locations": {}
+  },
+  "FMG INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 22040,
+    "locations": {}
+  },
+  "ARROWHEAD TRUCK EQUIPMENT INC": {
+    "naics_code": "336390.0",
+    "naics_desc": null,
+    "awards_total": 51960,
+    "locations": {}
+  },
+  "BUILDING PERFORMANCE ASSOCIATION INC": {
+    "naics_code": "813920.0",
+    "naics_desc": null,
+    "awards_total": 51500,
+    "locations": {}
+  },
+  "THE C THREE GROUP, LLC": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 132000,
+    "locations": {}
+  },
+  "DSC SOLUTIONS LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 33000,
+    "locations": {}
+  },
+  "ITM4G LLC": {
+    "naics_code": "314110.0",
+    "naics_desc": null,
+    "awards_total": 10977,
+    "locations": {}
+  },
+  "HANFORD TANK WASTE OPERATIONS & CLOSURE, LLC": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 5831716,
+    "locations": {}
+  },
+  "WATER, CIVIL AND ENVIRONMENTAL INCORPORATED": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 171669,
+    "locations": {}
+  },
+  "TRAYNOR TECHNICAL PROJECT SERVICES LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 517400,
+    "locations": {}
+  },
+  "MOSER ENGINE SERVICE, INC.": {
+    "naics_code": "335312.0",
+    "naics_desc": null,
+    "awards_total": 33150,
+    "locations": {}
+  },
+  "INTELLIGENT INTERNATIONAL INC.": {
+    "naics_code": "335929.0",
+    "naics_desc": null,
+    "awards_total": 256040,
+    "locations": {}
+  },
+  "BIGWOOD SYSTEMS INC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 72000,
+    "locations": {}
+  },
+  "CRITERION SYSTEMS, L.L.C.": {
+    "naics_code": "541513.0",
+    "naics_desc": null,
+    "awards_total": 271739859,
+    "locations": {}
+  },
+  "ZEV TECHNOLOGIES INC": {
+    "naics_code": "332994.0",
+    "naics_desc": null,
+    "awards_total": 545774,
+    "locations": {}
+  },
+  "LOGICAL SYSTEMS, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 12566,
+    "locations": {}
+  },
+  "THE MITRE CORPORATION": {
+    "naics_code": "541710.0",
+    "naics_desc": null,
+    "awards_total": 680421,
+    "locations": {}
+  },
+  "ALL SEASONS PROPERTY MAINTENANCE INC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 40700,
+    "locations": {}
+  },
+  "AUTOMATIC BUILDING CONTROLS, INC.": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 629430,
+    "locations": {}
+  },
+  "BANDA GROUP INTERNATIONAL LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 18070185,
+    "locations": {}
+  },
+  "BRANNEN, FREDA": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 39000,
+    "locations": {}
+  },
+  "EGS INC.": {
+    "naics_code": "561320.0",
+    "naics_desc": null,
+    "awards_total": 93776,
+    "locations": {}
+  },
+  "SUNRISE LAWN LANDSCAPE": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 34755,
+    "locations": {}
+  },
+  "DANIEL J EDELMAN INC": {
+    "naics_code": "541910.0",
+    "naics_desc": null,
+    "awards_total": 1389110,
+    "locations": {}
+  },
+  "BENTLEY SYSTEMS, INCORPORATED": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 10900,
+    "locations": {}
+  },
+  "THEEDGE, LLC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 15576,
+    "locations": {}
+  },
+  "MATERIA USA LLC": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 1462699,
+    "locations": {}
+  },
+  "SAVANNAH RIVER MISSION COMPLETION, LLC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 11008810,
+    "locations": {}
+  },
+  "RON TURLEY ASSOCIATES INC": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 15046,
+    "locations": {}
+  },
+  "SCHAFER GOVERNMENT SERVICES, LLC": {
+    "naics_code": "541712.0",
+    "naics_desc": null,
+    "awards_total": 1092299,
+    "locations": {}
+  },
+  "TEXAS MINERAL RESOURCES CORP.": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 1273899,
+    "locations": {}
+  },
+  "STAR2STAR COMMUNICATIONS, LLC": {
+    "naics_code": "517110.0",
+    "naics_desc": null,
+    "awards_total": 130469,
+    "locations": {}
+  },
+  "STRATA G, L.L.C.": {
+    "naics_code": "561320.0",
+    "naics_desc": null,
+    "awards_total": 150000,
+    "locations": {}
+  },
+  "BPI MECHANICAL SERVICES, INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 18720,
+    "locations": {}
+  },
+  "FIZZ O INC": {
+    "naics_code": "312112.0",
+    "naics_desc": null,
+    "awards_total": 15458,
+    "locations": {}
+  },
+  "ATP GOV, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 18770,
+    "locations": {}
+  },
+  "EURASIA GROUP LTD": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 75250,
+    "locations": {}
+  },
+  "SOURCEONE MANAGEMENT SERVICES, INC.": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 15000,
+    "locations": {}
+  },
+  "DRS ARCHITECTS INC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 327269,
+    "locations": {}
+  },
+  "LEGG LAWN & LANDSCAPE": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 29700,
+    "locations": {}
+  },
+  "ECONOMIC SYSTEMS, INC.": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 1040139,
+    "locations": {}
+  },
+  "BARR ENGINEERING CO.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 4307576,
+    "locations": {}
+  },
+  "A & T MARKETING INC": {
+    "naics_code": "334112.0",
+    "naics_desc": null,
+    "awards_total": 35045,
+    "locations": {}
+  },
+  "ERNST & YOUNG LLP": {
+    "naics_code": "541211.0",
+    "naics_desc": null,
+    "awards_total": 219850,
+    "locations": {}
+  },
+  "JE SYSTEMS INC": {
+    "naics_code": "238210.0",
+    "naics_desc": null,
+    "awards_total": 1047420,
+    "locations": {}
+  },
+  "ROYAL SWITCHGEAR MANUFACTURING COMPANY, LLC": {
+    "naics_code": "335313.0",
+    "naics_desc": null,
+    "awards_total": 81878,
+    "locations": {}
+  },
+  "WASHINGTON STATE UNIVERSITY": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 5290593,
+    "locations": {}
+  },
+  "ENGINEERING PROCUREMENT & CONSTRUCTION LLC": {
+    "naics_code": "325120.0",
+    "naics_desc": null,
+    "awards_total": 163012,
+    "locations": {}
+  },
+  "S&P GLOBAL INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 689049,
+    "locations": {}
+  },
+  "GOOD EARTH PEST CO": {
+    "naics_code": "561710.0",
+    "naics_desc": null,
+    "awards_total": 46380,
+    "locations": {}
+  },
+  "SCIAPS, INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 44150,
+    "locations": {}
+  },
+  "MG SCIENTIFIC INC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 10985,
+    "locations": {}
+  },
+  "COMPLIANCE ALLIANCE INC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 26757,
+    "locations": {}
+  },
+  "AVIATE ENTERPRISES, INC.": {
+    "naics_code": "333924.0",
+    "naics_desc": null,
+    "awards_total": 102727,
+    "locations": {}
+  },
+  "ENERGY INTELLIGENCE GROUP INC": {
+    "naics_code": "515210.0",
+    "naics_desc": null,
+    "awards_total": 15000,
+    "locations": {}
+  },
+  "ACUITY - PT&C, LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 431997,
+    "locations": {}
+  },
+  "PANHANDLE CLEANING & RESTORATION, INC": {
+    "naics_code": "238990.0",
+    "naics_desc": null,
+    "awards_total": 122065,
+    "locations": {}
+  },
+  "IPD LATIN AMERICA, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 53500,
+    "locations": {}
+  },
+  "CRITICAL MENTION, INC.": {
+    "naics_code": "519290.0",
+    "naics_desc": null,
+    "awards_total": 13000,
+    "locations": {}
+  },
+  "GULF OIL LIMITED PARTNERSHIP": {
+    "naics_code": "493190.0",
+    "naics_desc": null,
+    "awards_total": 12606000,
+    "locations": {}
+  },
+  "OLI SYSTEMS INC.": {
+    "naics_code": "541511.0",
+    "naics_desc": null,
+    "awards_total": 157706,
+    "locations": {}
+  },
+  "GLOBAL COMPANIES LLC": {
+    "naics_code": "493190.0",
+    "naics_desc": null,
+    "awards_total": 7802310,
+    "locations": {}
+  },
+  "REPUBLIC SERVICES INC": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 43350,
+    "locations": {}
+  },
+  "AMENTUM SERVICES, INC.": {
+    "naics_code": "541712.0",
+    "naics_desc": null,
+    "awards_total": 35633730,
+    "locations": {}
+  },
+  "POWER AUTHORITY OF STATE OF NEW YORK": {
+    "naics_code": "333613.0",
+    "naics_desc": null,
+    "awards_total": 50000,
+    "locations": {}
+  },
+  "CONVERGINT TECHNOLOGIES LLC": {
+    "naics_code": "315999.0",
+    "naics_desc": null,
+    "awards_total": 630580,
+    "locations": {}
+  },
+  "ANSYS INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 2619408,
+    "locations": {}
+  },
+  "SCHWEITZER ENGINEERING LABORATORIES INC": {
+    "naics_code": "611420.0",
+    "naics_desc": null,
+    "awards_total": 25500,
+    "locations": {}
+  },
+  "TECHCONNECT LLC": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 25000,
+    "locations": {}
+  },
+  "PCCI, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 2023978,
+    "locations": {}
+  },
+  "BISMAN OUTDOOR SERVICES INC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 16117,
+    "locations": {}
+  },
+  "PENN-NABRIT & ASSOCIATES, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 145674,
+    "locations": {}
+  },
+  "MELE ASSOCIATES, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 32917072,
+    "locations": {}
+  },
+  "CELERITEX, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 12204874,
+    "locations": {}
+  },
+  "CARNEGIE INSTITUTE": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 110000,
+    "locations": {}
+  },
+  "ARKANSAS OKLAHOMA GAS CORPORATION": {
+    "naics_code": "221210.0",
+    "naics_desc": null,
+    "awards_total": 2100000,
+    "locations": {}
+  },
+  "APPLIED TEST SYSTEMS, LLC": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 16745,
+    "locations": {}
+  },
+  "CITY OF OAK RIDGE": {
+    "naics_code": "926130.0",
+    "naics_desc": null,
+    "awards_total": 5000000,
+    "locations": {}
+  },
+  "MPR ASSOCIATES, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 95756,
+    "locations": {}
+  },
+  "SALMON GROUP INC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 13367386,
+    "locations": {}
+  },
+  "CHEROKEE NATION INTEGRATED HEALTH, L.L.C.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 163750,
+    "locations": {}
+  },
+  "C. NISSLEY ENVIRONMENTAL CONSULTANTS, INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 61100,
+    "locations": {}
+  },
+  "FOREIGN REPORTS INC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 14500,
+    "locations": {}
+  },
+  "LEVERAGE INFORMATION SYSTEMS, INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 27868,
+    "locations": {}
+  },
+  "ALPINE POWER SYSTEMS INC": {
+    "naics_code": "335910.0",
+    "naics_desc": null,
+    "awards_total": 99145,
+    "locations": {}
+  },
+  "PROJECT MANAGEMENT EXPERTS LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 26612,
+    "locations": {}
+  },
+  "ACCESS INTELLIGENCE LLC": {
+    "naics_code": "511120.0",
+    "naics_desc": null,
+    "awards_total": 241228,
+    "locations": {}
+  },
+  "EAST TENNESSEE NATURAL GAS, LLC": {
+    "naics_code": "486210.0",
+    "naics_desc": null,
+    "awards_total": 56921760,
+    "locations": {}
+  },
+  "HYPER COMMUNITY CREDIT LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 14880,
+    "locations": {}
+  },
+  "UMBC TRAINING CENTERS LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 97500,
+    "locations": {}
+  },
+  "DR ALFRED J HENDRON PHD": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 110243,
+    "locations": {}
+  },
+  "ATLANTIC COUNCIL OF THE UNITED STATES, INC., THE": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 85000,
+    "locations": {}
+  },
+  "THE OHIO HISTORICAL SOCIETY": {
+    "naics_code": "712110.0",
+    "naics_desc": null,
+    "awards_total": 15060,
+    "locations": {}
+  },
+  "COLORADO CUSTOM LIFT INC": {
+    "naics_code": "238290.0",
+    "naics_desc": null,
+    "awards_total": 10800,
+    "locations": {}
+  },
+  "DENVER ELEVATOR COMPANY, LLC": {
+    "naics_code": "238290.0",
+    "naics_desc": null,
+    "awards_total": 5124,
+    "locations": {}
+  },
+  "STERLING BUSINESS MACHINES INC": {
+    "naics_code": "424130.0",
+    "naics_desc": null,
+    "awards_total": 144270,
+    "locations": {}
+  },
+  "COLORADO RESOURCE SOLUTIONS INC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 648425,
+    "locations": {}
+  },
+  "ZOHNNIE CONSTRUCTION INDUSTRIES, INC.": {
+    "naics_code": "321911.0",
+    "naics_desc": null,
+    "awards_total": 92546,
+    "locations": {}
+  },
+  "PFEIFFER VACUUM, INC.": {
+    "naics_code": "334513.0",
+    "naics_desc": null,
+    "awards_total": 134392,
+    "locations": {}
+  },
+  "BWXT NOG TECHNOLOGIES, INC.": {
+    "naics_code": "562211.0",
+    "naics_desc": null,
+    "awards_total": 1882153,
+    "locations": {}
+  },
+  "CANON MEDICAL SYSTEMS USA, INC.": {
+    "naics_code": "811219.0",
+    "naics_desc": null,
+    "awards_total": 124200,
+    "locations": {}
+  },
+  "MITIG COMPANY, LLC": {
+    "naics_code": "321114.0",
+    "naics_desc": null,
+    "awards_total": 4029700,
+    "locations": {}
+  },
+  "HIGHMARK ERECTORS, INC.": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 3036830,
+    "locations": {}
+  },
+  "BWXT Y - 12, LLC": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 10986768334,
+    "locations": {}
+  },
+  "CAREER COMMUNICATIONS GROUP, INC.": {
+    "naics_code": "611710.0",
+    "naics_desc": null,
+    "awards_total": 30000,
+    "locations": {}
+  },
+  "ON24, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 20750,
+    "locations": {}
+  },
+  "INTER-PACIFIC INC.": {
+    "naics_code": "315999.0",
+    "naics_desc": null,
+    "awards_total": 754457,
+    "locations": {}
+  },
+  "HEATHS LAUNDRY INC": {
+    "naics_code": "812320.0",
+    "naics_desc": null,
+    "awards_total": 11981,
+    "locations": {}
+  },
+  "DOCUMENT IMAGING DIMENSIONS INC.": {
+    "naics_code": "325611.0",
+    "naics_desc": null,
+    "awards_total": 44850,
+    "locations": {}
+  },
+  "SUMMIT EXERCISES AND TRAINING LLC": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 57276,
+    "locations": {}
+  },
+  "FORT SMITH, CITY OF": {
+    "naics_code": "926130.0",
+    "naics_desc": null,
+    "awards_total": 200000,
+    "locations": {}
+  },
+  "OSI FEDERAL TECHNOLOGIES INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 10316,
+    "locations": {}
+  },
+  "NIGHT OWL JANITORIAL SERVICES LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 32043,
+    "locations": {}
+  },
+  "ANJALI SHEFFRIN L.L.C.": {
+    "naics_code": "541990.0",
+    "naics_desc": null,
+    "awards_total": 120040,
+    "locations": {}
+  },
+  "SANFORD BISMARCK": {
+    "naics_code": "621111.0",
+    "naics_desc": null,
+    "awards_total": 93642,
+    "locations": {}
+  },
+  "SWI INDUSTRIAL SOLUTIONS, INC.": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 382399,
+    "locations": {}
+  },
+  "HARVARD COLLEGE PRESIDENT & FELLOWS OF": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 103000,
+    "locations": {}
+  },
+  "UNIVERSITY OF OREGON": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 37551,
+    "locations": {}
+  },
+  "EXPERT DIGITAL IMAGING INC": {
+    "naics_code": "333316.0",
+    "naics_desc": null,
+    "awards_total": 129420,
+    "locations": {}
+  },
+  "CYKOR LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 480196,
+    "locations": {}
+  },
+  "THE REGENTS OF THE UNIVERSITY OF COLORADO": {
+    "naics_code": "611310.0",
+    "naics_desc": null,
+    "awards_total": 46000,
+    "locations": {}
+  },
+  "ELEVATE IMPROVEMENT LLC": {
+    "naics_code": "488119.0",
+    "naics_desc": null,
+    "awards_total": 30000,
+    "locations": {}
+  },
+  "UNISON SOFTWARE, INC.": {
+    "naics_code": "443120.0",
+    "naics_desc": null,
+    "awards_total": 8383693,
+    "locations": {}
+  },
+  "TUCKER SNO-CAT CORPORATION": {
+    "naics_code": "336999.0",
+    "naics_desc": null,
+    "awards_total": 29392,
+    "locations": {}
+  },
+  "RESCUE TRAINING INSTITUTE, INC.": {
+    "naics_code": "611699.0",
+    "naics_desc": null,
+    "awards_total": 20540,
+    "locations": {}
+  },
+  "CROWN BASED SERVICES LLC": {
+    "naics_code": "561790.0",
+    "naics_desc": null,
+    "awards_total": 9480,
+    "locations": {}
+  },
+  "AR GROUP, LLC, THE": {
+    "naics_code": "541612.0",
+    "naics_desc": null,
+    "awards_total": 2371150,
+    "locations": {}
+  },
+  "JCPDS INTERNATIONAL CENTRE FOR DIFFRACTION DATA": {
+    "naics_code": "423430.0",
+    "naics_desc": null,
+    "awards_total": 28400,
+    "locations": {}
+  },
+  "HAMILTON ALLIANCE INC": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 44220,
+    "locations": {}
+  },
+  "GFS SUPPLY & SERVICES COMPANY, INC.": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 49799,
+    "locations": {}
+  },
+  "WORLD WIDE TECHNOLOGY LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 10777,
+    "locations": {}
+  },
+  "NORTHGATE AVIATION INC": {
+    "naics_code": "488119.0",
+    "naics_desc": null,
+    "awards_total": 43956,
+    "locations": {}
+  },
+  "LONGLAND CORP": {
+    "naics_code": "336390.0",
+    "naics_desc": null,
+    "awards_total": 80000,
+    "locations": {}
+  },
+  "WHITEFISH ENERGY HOLDINGS, LLC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 1015442,
+    "locations": {}
+  },
+  "CORE LABORATORIES LP": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 1064836,
+    "locations": {}
+  },
+  "KLEEN SWEEP LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 13601,
+    "locations": {}
+  },
+  "AMERICAN MANAGEMENT ASSOCIATION INTERNATIONAL": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 23835,
+    "locations": {}
+  },
+  "PUBLIC SERVICE COMPANY OF COLORADO": {
+    "naics_code": "221122.0",
+    "naics_desc": null,
+    "awards_total": 200000,
+    "locations": {}
+  },
+  "MDU RESOURCES GROUP, INC.": {
+    "naics_code": "488119.0",
+    "naics_desc": null,
+    "awards_total": 13800,
+    "locations": {}
+  },
+  "GENERAL ELECTRIC INTERNATIONAL, INC.": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 25495,
+    "locations": {}
+  },
+  "BILLINGS CLINIC": {
+    "naics_code": "621111.0",
+    "naics_desc": null,
+    "awards_total": 33255,
+    "locations": {}
+  },
+  "CAMP SYSTEMS INTERNATIONAL INC.": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 239682,
+    "locations": {}
+  },
+  "QUALITY TRAINING SYSTEMS INC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 32377,
+    "locations": {}
+  },
+  "HOT/SHOT INFRARED INSPECTIONS, INC.": {
+    "naics_code": "541370.0",
+    "naics_desc": null,
+    "awards_total": 84799,
+    "locations": {}
+  },
+  "THE OTTERY GROUP, INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 43880,
+    "locations": {}
+  },
+  "ABSOLUTE ACCESS ID, LLC": {
+    "naics_code": "423690.0",
+    "naics_desc": null,
+    "awards_total": 21375,
+    "locations": {}
+  },
+  "COVEO SOFTWARE CORP": {
+    "naics_code": "423430.0",
+    "naics_desc": null,
+    "awards_total": 29566,
+    "locations": {}
+  },
+  "UNIFIED CONTRACTOR, INC.": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 378349,
+    "locations": {}
+  },
+  "MICROMERITICS INSTRUMENT CORPORATION": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 206997,
+    "locations": {}
+  },
+  "HUNTSVILLE TRACTOR & EQUIPMENT INC": {
+    "naics_code": "333112.0",
+    "naics_desc": null,
+    "awards_total": 33959,
+    "locations": {}
+  },
+  "PATRICIA HANSON": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 30240,
+    "locations": {}
+  },
+  "DAVIS SERVICE CENTER, INC.": {
+    "naics_code": "336112.0",
+    "naics_desc": null,
+    "awards_total": 35968,
+    "locations": {}
+  },
+  "DELTA STAR, INC.": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 1278910,
+    "locations": {}
+  },
+  "MICHAELSON CONNOR & BOUL": {
+    "naics_code": "561210.0",
+    "naics_desc": null,
+    "awards_total": 83664,
+    "locations": {}
+  },
+  "GAMS DEVELOPMENT CORP": {
+    "naics_code": "511210.0",
+    "naics_desc": null,
+    "awards_total": 31920,
+    "locations": {}
+  },
+  "LECO CORP": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 26845,
+    "locations": {}
+  },
+  "FPS ENERGY CONSULTING LLC": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 1116300,
+    "locations": {}
+  },
+  "BROUGHTON VOLUNTEER FIRE DEPARTMENT": {
+    "naics_code": "922160.0",
+    "naics_desc": null,
+    "awards_total": 70517,
+    "locations": {}
+  },
+  "FRANZ REPROGRAPHICS INC": {
+    "naics_code": "811210.0",
+    "naics_desc": null,
+    "awards_total": 12000,
+    "locations": {}
+  },
+  "ELOCEN GROUP, LLC (THE)": {
+    "naics_code": "523110.0",
+    "naics_desc": null,
+    "awards_total": 486209,
+    "locations": {}
+  },
+  "THE BRATTLE GROUP INC": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 6500100,
+    "locations": {}
+  },
+  "UTILITIES TECHNOLOGY COUNCIL": {
+    "naics_code": "813910.0",
+    "naics_desc": null,
+    "awards_total": 15817,
+    "locations": {}
+  },
+  "GOVERNMENT AND MILITARY CERTIFICATION SYSTEMS, INC.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 57941,
+    "locations": {}
+  },
+  "RMEL": {
+    "naics_code": "813920.0",
+    "naics_desc": null,
+    "awards_total": 90000,
+    "locations": {}
+  },
+  "ENVIRONMENTAL PLANNING GROUP LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 258660,
+    "locations": {}
+  },
+  "JB CONTRACTING, INC.": {
+    "naics_code": "238320.0",
+    "naics_desc": null,
+    "awards_total": 50000,
+    "locations": {}
+  },
+  "CHESTER SUPPLY, LLC": {
+    "naics_code": "335999.0",
+    "naics_desc": null,
+    "awards_total": 18997,
+    "locations": {}
+  },
+  "DLE TECHNICAL SERVICES, LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 833564,
+    "locations": {}
+  },
+  "LOGISTICS365 INC": {
+    "naics_code": "336999.0",
+    "naics_desc": null,
+    "awards_total": 40066,
+    "locations": {}
+  },
+  "DEVELOPMENT CAPITAL & FINANCING, LLC": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 358100,
+    "locations": {}
+  },
+  "X CELL MANAGEMENT INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 77803,
+    "locations": {}
+  },
+  "CYNERGY PROFESSIONAL SYSTEMS LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 41507,
+    "locations": {}
+  },
+  "BYER, MARILYN": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 193468,
+    "locations": {}
+  },
+  "TELEDYNE INSTRUMENTS INC": {
+    "naics_code": "334513.0",
+    "naics_desc": null,
+    "awards_total": 3375,
+    "locations": {}
+  },
+  "SEL ENGINEERING SERVICES, INC.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 13538,
+    "locations": {}
+  },
+  "ENERGY COMMUNITIES ALLIANCE INC.": {
+    "naics_code": "611710.0",
+    "naics_desc": null,
+    "awards_total": 80000,
+    "locations": {}
+  },
+  "ATS SPECIALIZED LLC": {
+    "naics_code": "611519.0",
+    "naics_desc": null,
+    "awards_total": 82375,
+    "locations": {}
+  },
+  "DEVELOPMENT WORKSHOP, INC.": {
+    "naics_code": "561410.0",
+    "naics_desc": null,
+    "awards_total": 9692139,
+    "locations": {}
+  },
+  "AVEVA SOFTWARE, LLC": {
+    "naics_code": "541512.0",
+    "naics_desc": null,
+    "awards_total": 54170,
+    "locations": {}
+  },
+  "FRONTIER COMMUNICATIONS OF AMERICA, INC": {
+    "naics_code": "517111.0",
+    "naics_desc": null,
+    "awards_total": 43920,
+    "locations": {}
+  },
+  "WESTERN LANDSCAPE, INC.": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 187836,
+    "locations": {}
+  },
+  "PHYSICAL ELECTRONICS USA, INC.": {
+    "naics_code": "334516.0",
+    "naics_desc": null,
+    "awards_total": 14895,
+    "locations": {}
+  },
+  "TRINITY BAY CONSERVATION DISTRICT": {
+    "naics_code": "221310.0",
+    "naics_desc": null,
+    "awards_total": 583828,
+    "locations": {}
+  },
+  "LIQUID INSTRUMENTS INC": {
+    "naics_code": "334515.0",
+    "naics_desc": null,
+    "awards_total": 12225,
+    "locations": {}
+  },
+  "BRUCE DIAMOND": {
+    "naics_code": "541199.0",
+    "naics_desc": null,
+    "awards_total": 250000,
+    "locations": {}
+  },
+  "XTREME PRESSURE WASHING LLC": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 72000,
+    "locations": {}
+  },
+  "JOHN PROUTY CONSTRUCTION, INC.": {
+    "naics_code": "237990.0",
+    "naics_desc": null,
+    "awards_total": 146825,
+    "locations": {}
+  },
+  "ITRON INC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 212075,
+    "locations": {}
+  },
+  "RDO TRUCK CENTER CO": {
+    "naics_code": "811111.0",
+    "naics_desc": null,
+    "awards_total": 38788,
+    "locations": {}
+  },
+  "U.S. CIVILIAN RESEARCH AND DEVELOPMENT FOUNDATION": {
+    "naics_code": "928120.0",
+    "naics_desc": null,
+    "awards_total": 683315,
+    "locations": {}
+  },
+  "THE PERFORMANCE INSTITUTE LLC": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 17620,
+    "locations": {}
+  },
+  "MOON DENISE": {
+    "naics_code": "519210.0",
+    "naics_desc": null,
+    "awards_total": 10000,
+    "locations": {}
+  },
+  "MICHAEL J ELSEN": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 32326,
+    "locations": {}
+  },
+  "SITEIMPROVE, INC.": {
+    "naics_code": "518210.0",
+    "naics_desc": null,
+    "awards_total": 21763,
+    "locations": {}
+  },
+  "RETECH SYSTEMS LLC": {
+    "naics_code": "333994.0",
+    "naics_desc": null,
+    "awards_total": 33600,
+    "locations": {}
+  },
+  "ILLUMINA, INC.": {
+    "naics_code": "811210.0",
+    "naics_desc": null,
+    "awards_total": 27978,
+    "locations": {}
+  },
+  "SUSTAINABLE EXHIBITS MANAGEMENT GROUP, INC.": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 29624,
+    "locations": {}
+  },
+  "BEACON TRAINING SERVICES, INC.": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 10096,
+    "locations": {}
+  },
+  "JEMEZ MOUNTAINS ELECTRIC COOPERATIVE INC": {
+    "naics_code": "221122.0",
+    "naics_desc": null,
+    "awards_total": 354000,
+    "locations": {}
+  },
+  "POTOMAC ELECTRIC POWER CO": {
+    "naics_code": "221122.0",
+    "naics_desc": null,
+    "awards_total": 4393439,
+    "locations": {}
+  },
+  "FULL ROD CONSTRUCTION INC": {
+    "naics_code": "237990.0",
+    "naics_desc": null,
+    "awards_total": 48500,
+    "locations": {}
+  },
+  "MSS SERVICES, INC.": {
+    "naics_code": "561320.0",
+    "naics_desc": null,
+    "awards_total": 104844,
+    "locations": {}
+  },
+  "TRENT TECHNICAL SERVICES LLC": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 942990,
+    "locations": {}
+  },
+  "SPENCER GROUP INC": {
+    "naics_code": "513210.0",
+    "naics_desc": null,
+    "awards_total": 11784,
+    "locations": {}
+  },
+  "CUMMINS INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 22844,
+    "locations": {}
+  },
+  "KATMAI PERIKIN JOINT VENTURE LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 14383139,
+    "locations": {}
+  },
+  "TRADE TECH PRO LLC": {
+    "naics_code": "611519.0",
+    "naics_desc": null,
+    "awards_total": 31535,
+    "locations": {}
+  },
+  "HANFORD OCCUPATIONAL HEALTHCARE AND WELLNESS INC.": {
+    "naics_code": "621111.0",
+    "naics_desc": null,
+    "awards_total": 419112,
+    "locations": {}
+  },
+  "LAKE REGION CORPORATION": {
+    "naics_code": "561720.0",
+    "naics_desc": null,
+    "awards_total": 52328,
+    "locations": {}
+  },
+  "UNAMI LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 552217,
+    "locations": {}
+  },
+  "CUMMINS KENNETH L": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 25000,
+    "locations": {}
+  },
+  "SAFETY-KLEEN SYSTEMS, INC.": {
+    "naics_code": "325998.0",
+    "naics_desc": null,
+    "awards_total": 93677,
+    "locations": {}
+  },
+  "FACILITY SUPPORT SERVICES LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 2287306,
+    "locations": {}
+  },
+  "NATIONAL INSTITUTE OF BUILDING SCIENCES": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 1905122,
+    "locations": {}
+  },
+  "UTILICAST L.L.C.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 694908,
+    "locations": {}
+  },
+  "SOCIETY FOR INDUSTRIAL AND APPLIED MATHEMATICS": {
+    "naics_code": "513120.0",
+    "naics_desc": null,
+    "awards_total": 12080,
+    "locations": {}
+  },
+  "TRAFFIC SAFETY SERVICES, INC": {
+    "naics_code": "532490.0",
+    "naics_desc": null,
+    "awards_total": 18500,
+    "locations": {}
+  },
+  "NATIONAL BUSINESS AVIATION ASSOCIATION": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 50000,
+    "locations": {}
+  },
+  "CHEROKEE NATION OPERATIONAL SOLUTIONS, L.L.C.": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 471374,
+    "locations": {}
+  },
+  "FIRST AMERICAN TITLE COMPANY": {
+    "naics_code": "524127.0",
+    "naics_desc": null,
+    "awards_total": 18000,
+    "locations": {}
+  },
+  "CHARTER COMMUNICATIONS OPERATING, LLC": {
+    "naics_code": "517311.0",
+    "naics_desc": null,
+    "awards_total": 112560,
+    "locations": {}
+  },
+  "GUILD OPTICAL ASSOCIATES INC": {
+    "naics_code": "327211.0",
+    "naics_desc": null,
+    "awards_total": 10425,
+    "locations": {}
+  },
+  "AT&T CORP.": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 84312,
+    "locations": {}
+  },
+  "WASTE MANAGEMENT OF NORTH DAKOTA, INC.": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 19749,
+    "locations": {}
+  },
+  "NORTHROP ENGINEERING CORP": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 5645,
+    "locations": {}
+  },
+  "DAKOTA PEST CONTROL INC": {
+    "naics_code": "561710.0",
+    "naics_desc": null,
+    "awards_total": 10319,
+    "locations": {}
+  },
+  "TECHNOLOGY INTERNATIONAL INC": {
+    "naics_code": "334519.0",
+    "naics_desc": null,
+    "awards_total": 136428,
+    "locations": {}
+  },
+  "KALIN'S INDOOR COMFORT, INC.": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 31232,
+    "locations": {}
+  },
+  "JFA-RC TECHNICAL SERVICES LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 272656,
+    "locations": {}
+  },
+  "IEI-PEC JV": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 981522,
+    "locations": {}
+  },
+  "AMERICAN INSTITUTE OF CHEMICAL ENGINEERS": {
+    "naics_code": "611430.0",
+    "naics_desc": null,
+    "awards_total": 13118,
+    "locations": {}
+  },
+  "INFINITY TECHNOLOGY, LLC": {
+    "naics_code": "541330.0",
+    "naics_desc": null,
+    "awards_total": 24677136,
+    "locations": {}
+  },
+  "LUX RESEARCH, INC.": {
+    "naics_code": "519130.0",
+    "naics_desc": null,
+    "awards_total": 78900,
+    "locations": {}
+  },
+  "NORTHERN PLAINS EQUIPMENT CO., INC.": {
+    "naics_code": "811310.0",
+    "naics_desc": null,
+    "awards_total": 30113,
+    "locations": {}
+  },
+  "AMERICAN CLASSIC CONSTRUCTION INC.": {
+    "naics_code": "212321.0",
+    "naics_desc": null,
+    "awards_total": 12352,
+    "locations": {}
+  },
+  "TOWN OF GORE": {
+    "naics_code": "561612.0",
+    "naics_desc": null,
+    "awards_total": 10800,
+    "locations": {}
+  },
+  "DBM, INC.": {
+    "naics_code": "531120.0",
+    "naics_desc": null,
+    "awards_total": 5292204,
+    "locations": {}
+  },
+  "GENERAL ELECTRIC CO": {
+    "naics_code": "332993.0",
+    "naics_desc": null,
+    "awards_total": 1885078818,
+    "locations": {}
+  },
+  "MAK LAWN SERVICES LLC": {
+    "naics_code": "561730.0",
+    "naics_desc": null,
+    "awards_total": 1038088,
+    "locations": {}
+  },
+  "POLCARI JOANN": {
+    "naics_code": "541611.0",
+    "naics_desc": null,
+    "awards_total": 107260,
+    "locations": {}
+  },
+  "PANAMERICAN CONSULTANTS INC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 64394,
+    "locations": {}
+  },
+  "TRAVIS E SANDERS": {
+    "naics_code": "312112.0",
+    "naics_desc": null,
+    "awards_total": 35598,
+    "locations": {}
+  },
+  "SIGNET TECHNOLOGIES, INC.": {
+    "naics_code": "334512.0",
+    "naics_desc": null,
+    "awards_total": 155972,
+    "locations": {}
+  },
+  "DOMESTIC AWARDEES (UNDISCLOSED)": {
+    "naics_code": "334510.0",
+    "naics_desc": null,
+    "awards_total": 0,
+    "locations": {}
+  },
+  "CHEROKEE NATION ASSURANCE, L.L.C.": {
+    "naics_code": "327110.0",
+    "naics_desc": null,
+    "awards_total": 0,
+    "locations": {}
+  },
+  "GE RENEWABLES GRID LLC": {
+    "naics_code": "335311.0",
+    "naics_desc": null,
+    "awards_total": 158800,
+    "locations": {}
+  },
+  "INNOVATIVE FEDERAL OPERATIONS GROUP, INCORPORATED": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 33672,
+    "locations": {}
+  },
+  "SILVER MOUNTAIN CONSTRUCTION LLC": {
+    "naics_code": "236220.0",
+    "naics_desc": null,
+    "awards_total": 757763,
+    "locations": {}
+  },
+  "HUTTON CONTRACTING CO INC": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 2830279,
+    "locations": {}
+  },
+  "BROWNELLS INC": {
+    "naics_code": "332994.0",
+    "naics_desc": null,
+    "awards_total": 13590,
+    "locations": {}
+  },
+  "AP FIRE PROTECTION, LLC": {
+    "naics_code": "238220.0",
+    "naics_desc": null,
+    "awards_total": 10885,
+    "locations": {}
+  },
+  "DIRAC SOLUTIONS, INC.": {
+    "naics_code": "541690.0",
+    "naics_desc": null,
+    "awards_total": 1494911,
+    "locations": {}
+  },
+  "ID TECHNOLOGIES, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 55627,
+    "locations": {}
+  },
+  "HII NUCLEAR INC": {
+    "naics_code": "562910.0",
+    "naics_desc": null,
+    "awards_total": 89408489,
+    "locations": {}
+  },
+  "IIMAGE RETRIEVAL, INC.": {
+    "naics_code": "333316.0",
+    "naics_desc": null,
+    "awards_total": 54400,
+    "locations": {}
+  },
+  "NORTH WIND SITE SERVICES, LLC": {
+    "naics_code": "541620.0",
+    "naics_desc": null,
+    "awards_total": 2868457,
+    "locations": {}
+  },
+  "V LINE SERVICES L.L.C.": {
+    "naics_code": "237130.0",
+    "naics_desc": null,
+    "awards_total": 6854541,
+    "locations": {}
+  },
+  "THE PENNSYLVANIA STATE UNIVERSITY": {
+    "naics_code": "541715.0",
+    "naics_desc": null,
+    "awards_total": 130000,
+    "locations": {}
+  },
+  "VEHICLE SERVICE GROUP, LLC": {
+    "naics_code": "333924.0",
+    "naics_desc": null,
+    "awards_total": 37096,
+    "locations": {}
+  },
+  "DIGITAL CHECK CORP": {
+    "naics_code": "333316.0",
+    "naics_desc": null,
+    "awards_total": 47952,
+    "locations": {}
+  },
+  "PTLF PROCESS LLC": {
+    "naics_code": "423840.0",
+    "naics_desc": null,
+    "awards_total": 51033,
+    "locations": {}
+  },
+  "USA WASTE OF CALIFORNIA INC": {
+    "naics_code": "562111.0",
+    "naics_desc": null,
+    "awards_total": 8624,
+    "locations": {}
+  },
+  "WEBSTER GROUP INC": {
+    "naics_code": "561920.0",
+    "naics_desc": null,
+    "awards_total": 15066,
+    "locations": {}
+  },
+  "ALL POINTS LOGISTICS, LLC": {
+    "naics_code": "541519.0",
+    "naics_desc": null,
+    "awards_total": 25010,
+    "locations": {}
+  }
+}
