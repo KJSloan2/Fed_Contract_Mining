@@ -9,12 +9,7 @@ from pathlib import Path
 #from dotenv import load_dotenv
 import os
 
-#load_dotenv()
-#load_dotenv(dotenv_path=r"\\dfw-01-data01\Design$\Hugo\01_Computational Tools\00_Dev\06_BDTools\src\.env")
-
-#cbi_downloads_energy = r"{}".format(str(os.getenv("CBI_DOWNLOADS_ENERGY")))
-#cbi_downloads_energy= os.path.abspath(os.path.expanduser(os.getenv("CBI_DOWNLOADS_ENERGY")))
-cbi_downloads_energy = r"\\DFW-01-DATA01\Design$\Hugo\00_Data Repo\01_By Topic\Energy\Energy Companies\CB Insights Downloads\\"
+cbi_downloads_energy = r""
 
 print(cbi_downloads_energy)
 files_ = [f for f in listdir(cbi_downloads_energy) if isfile(join(cbi_downloads_energy, f))]
