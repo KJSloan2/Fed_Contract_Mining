@@ -65,7 +65,7 @@ def format_zipcode(zipcode):
 
 ##############################DIRECTORY PATHS########################################
 paths_ = {
-	"gaz":r"\\DFW-01-DATA01\Design$\Hugo\00_Data Repo\00_By Government Entity\USCB\Geographic Reference\GAZETTEER\\",
+	"gaz":r"",
 	}
 
 gazFileNames_ = {
