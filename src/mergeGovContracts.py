@@ -25,12 +25,12 @@ headers2get_ = [
     "period_of_performance_current_end_date","transaction_description"
 ]
 
-dataOut_dirPath = r"\\dfw-01-data01\Design$\Hugo\01_Computational Tools\00_Dev\02_Geo\01_output\\"
+dataOut_dirPath = r""
 dataOut_fileName = "temp_merge.csv"
 #write_dataOut = open("%s%s" % (dataOut_dirPath,dataOut_fileName), 'w',newline='', encoding='utf-8')
 #writer_dataOut = csv.writer(write_dataOut)
 
-dirpath_data = r"\\DFW-01-DATA01\Design$\Hugo\00_Data Repo\11_Government Funding\\"
+dirpath_data = r""
 with open("%s%s" % (dataOut_dirPath,dataOut_fileName), 'w',newline='', encoding='utf-8') as write_dataOut:
 	writer_dataOut = csv.writer(write_dataOut)
 	headers2write_ = headers2get_
