@@ -156,11 +156,6 @@ def bounding_box(gaz_):
 
 #####################################################################################
 ##############################DIRECTORY PATHS########################################
-dirpaths_ = {
-	"gaz":r"\\DFW-01-DATA01\Design$\Hugo\00_Data Repo\00_By Government Entity\USCB\Geographic Reference\GAZETTEER\\",
-	"gaz_mda" :r"\\DFW-01-DATA01\Design$\Hugo\00_Data Repo\00_By Government Entity\USCB\Geographic Reference\GAZETTEER\GeoCrosswalks\Max Dist Aggregation\\",
-	"00_resources":r"\\dfw-01-data01\Design$\Hugo\01_Computational Tools\00_Dev\02_Geo\00_resources\\"
-	}
 #####################################################################################
 '''Names of the Gazzetter files. The 'tab' argument plugged into the 'get_gaz' function,
 is used to retreive the correct Gazzetter file name from this dict'''
@@ -213,42 +208,3 @@ def get_nearby(pooled_,gcb_):
 	return(pooled_)
 
 print(get_nearby(zcta_pooled,cbsa_))
-
-
-'''files_ = [f for f in listdir(dirpaths_["gaz_mda"]) if isfile(join(dirpaths_["gaz_mda"], f))]
-store_fCtTimes = []
-store_fpaths= []
-geoCrosswalk_ = None
-if len(files_) > 0:
-	for f in files_:
-		if f == "geoCrosswalk.json":
-			fpath = str(dirpaths_["gaz_mda"])+"%s" % (f)
-			fileStats = os.stat(fpath)
-			store_fCtTimes.append(float(fileStats.st_ctime))
-			store_fpaths.append(fpath)
-	geoCrosswalk_ = store_fpaths[store_fCtTimes.index(max(store_fCtTimes))]
-
-if geoCrosswalk_ != None:
-	geoCrosswalk_ = json.load(open("%s%s" % (dirpaths_["gaz_mda"],"GAZ_Crosswalk.json")))
-	for argKey in list(args_.keys()):
-		arg_ = args_[argKey]
-		if arg_["process"] == True:
-			crosswalk(get_gaz(argKey,arg_["labels"]),geoCrosswalk_,argKey,arg_["maxDist"])
-
-elif geoCrosswalk_ == None:
-	geoCrosswalk_ = {}
-	gazData_ = get_gaz(geoCatchBasin,args_[geoCatchBasin]["labels"])
-	for i in range(len(gazData_["GEOID"])):
-		geoid = gazData_["GEOID"][i]
-		if geoid in refCbsa_:
-			geoCrosswalk_[geoid] = {}
-			for l in args_[geoCatchBasin]["labels"]:
-				geoCrosswalk_[geoid][l] = gazData_[l][i]
-			print(geoCrosswalk_[geoid])
-	for argKey in list(args_.keys()):
-		arg_ = args_[argKey]
-		if arg_["process"] == True:
-			crosswalk(get_gaz(argKey,arg_["labels"]),geoCrosswalk_,argKey,arg_["maxDist"])
-
-with open(str("%s%s" % (dirpaths_["gaz_mda"],"geoCrosswalk.json")), "w") as json_gazCrosswalk:
-	json_gazCrosswalk.write(geoCrosswalk_pretty = json.dumps(geoCrosswalk_, indent=4))'''
